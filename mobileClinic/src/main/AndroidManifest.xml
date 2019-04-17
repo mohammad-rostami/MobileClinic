@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="ir.uncode.course.app.ilness_diagnosis"
+    android:versionCode="2"
+    android:versionName="1.1" >
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+
+    <application
+        android:name=".G"
+        android:icon="@drawable/illness_icon"
+        android:label="@string/app_name" >
+        <activity
+            android:name=".AttentionActivity"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+           <activity
+            android:name=".ActivityStartup"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+        </activity>
+         <activity
+            android:name=".MenuActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            >
+        </activity>
+           <activity
+            android:name=".EmergencyActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            >
+        </activity>
+               <activity
+            android:name=".E_ChestHurtActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            >
+        </activity>
+               <activity
+            android:name=".E_BurningActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            >
+        </activity>
+                       <activity
+            android:name=".EE_Electric_BurnActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            >
+        </activity>
+                       <activity
+            android:name=".EE_Thermal_BurnActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            >
+        </activity>
+                       <activity
+            android:name=".EE_Chemical_BurnActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            >
+        </activity>
+               <activity
+            android:name=".E_BasicSupportActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            >
+        </activity>
+               <activity
+            android:name=".EE_Critical_SupportActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            >
+        </activity>
+                     <activity
+            android:name=".EE_Critical_MarkActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            >
+        </activity>
+                <activity
+            android:name=".EE_Child_BreathActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            >
+        </activity>
+                <activity
+            android:name=".EE_Adult_BreathActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            >
+        </activity>
+               <activity
+            android:name=".E_PoisoningActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            >
+        </activity>
+                <activity
+            android:name=".E_HeatstrokeActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            >
+        </activity>
+        
+               <activity
+            android:name=".E_HeadHurtActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            >
+        </activity>
+               <activity
+            android:name=".TextActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            >
+        </activity>
+               <activity
+            android:name=".TextActivity1"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            >
+        </activity>
+               <activity
+            android:name=".E_FrostbiteActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            >
+        </activity>
+         <activity
+            android:name=".DiagnosisActivity"
+            android:label="@string/app_name" 
+            android:screenOrientation="portrait"
+           >
+        </activity>
+            <activity
+            android:name=".AboutActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+         >
+        </activity>
+          <activity
+            android:name=".D_BodyPartActivity"
+            android:label="@string/app_name" 
+            android:screenOrientation="portrait"
+            >
+        </activity>
+          <activity
+            android:name=".D_SkinActivity"
+            android:label="@string/app_name" 
+            android:screenOrientation="portrait"
+            >
+        </activity>
+         <activity
+            android:name=".D_EarActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            >
+         
+        </activity>
+         <activity
+            
+            android:name=".D_AnswerActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            >
+         
+        </activity>
+         <activity
+            android:name=".D_Eye1Activity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            >
+         
+        </activity>
+         <activity
+            android:name=".D_Eye2Activity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            >
+         
+        </activity>
+         <activity
+            android:name=".D_Eye3Activity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            >
+         
+        </activity>
+         <activity
+            android:name=".D_SexualActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            >
+         
+        </activity>
+         <activity
+            android:name=".D_FaceActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            >
+         
+        </activity>
+         <activity
+            android:name=".D_MouthActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait">
+         
+        </activity>
+         <activity
+            android:name=".D_AbdomenActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            >
+         
+        </activity>
+         <activity
+            android:name=".D_Abdomen1Activity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            >
+         
+        </activity>
+         <activity
+            android:name=".D_Abdomen2Activity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            >
+         
+        </activity>
+         <activity
+            android:name=".D_Abdomen3Activity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            >
+         
+        </activity>
+            <activity
+            android:name=".DataBaseHelper"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            >
+         
+        </activity>
+            <activity
+            android:name=".E_AtelBandiActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            >
+         
+        </activity>
+            <activity
+            android:name=".E_BimariActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            >
+         
+        </activity>
+                    <activity
+            android:name=".D_HandActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            >
+         
+        </activity>
+                                    <activity
+            android:name=".D_LegActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            >
+         
+        </activity>
+                            <activity
+            android:name=".D_BiniActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            >
+         
+        </activity>
+    </application>
+
+</manifest>

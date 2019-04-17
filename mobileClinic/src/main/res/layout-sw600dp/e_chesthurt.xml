@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#eeeeee"
+    android:gravity="center_horizontal"
+    android:orientation="vertical" >
+ <include layout="@layout/actionbar_long"/>
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="2.14" android:background="#ffffff">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <Button
+                android:id="@+id/btnchest"
+                style="?android:attr/borderlessButtonStyle"
+                android:layout_width="fill_parent"
+                android:layout_height="88dip"
+                android:background="@drawable/pressed_btn"
+                android:drawablePadding="24dip"
+                android:drawableRight="@drawable/ei_chest110"
+                android:gravity="right|center"
+                android:paddingLeft="10dip"
+                android:paddingRight="24dip"
+                android:text="آسیب به قفسه سینه"
+                android:textColor="#222222"
+                android:textSize="20dip"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="#f6f6f6"
+                android:orientation="vertical" >
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/btnspinal_hurt"
+                style="?android:attr/borderlessButtonStyle"
+                android:layout_width="fill_parent"
+                android:layout_height="88dip"
+                android:background="@drawable/pressed_btn"
+                android:drawablePadding="24dip"
+                android:drawableRight="@drawable/ei_chest110"
+                android:gravity="right|center"
+                android:paddingLeft="10dip"
+                android:paddingRight="24dip"
+                android:text="آسیب به شکم"
+                android:textColor="#222222"
+                android:textSize="20dip"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="#f6f6f6"
+                android:orientation="vertical" >
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/btnOs"
+                style="?android:attr/borderlessButtonStyle"
+                android:layout_width="fill_parent"
+                android:layout_height="88dip"
+                android:background="@drawable/pressed_btn"
+                android:drawablePadding="24dip"
+                android:drawableRight="@drawable/ei_chest110"
+                android:gravity="right|center"
+                android:paddingLeft="10dip"
+                android:paddingRight="24dip"
+                android:text="آسیب به استخوان"
+                android:textColor="#222222"
+                android:textSize="20dip"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="#f6f6f6"
+                android:orientation="vertical" >
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/btnPich"
+                style="?android:attr/borderlessButtonStyle"
+                android:layout_width="fill_parent"
+                android:layout_height="88dip"
+                android:background="@drawable/pressed_btn"
+                android:drawablePadding="24dip"
+                android:drawableRight="@drawable/ei_chest110"
+                android:gravity="right|center"
+                android:paddingLeft="10dip"
+                android:paddingRight="24dip"
+                android:text="پیچ خوردگی,کشیدگی,در رفتگی"
+                android:textColor="#222222"
+                android:textSize="20dip"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="#f6f6f6"
+                android:orientation="vertical" >
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/btnNakhon"
+                style="?android:attr/borderlessButtonStyle"
+                android:layout_width="fill_parent"
+                android:layout_height="88dip"
+                android:background="@drawable/pressed_btn"
+                android:drawablePadding="24dip"
+                android:drawableRight="@drawable/ei_chest110"
+                android:gravity="right|center"
+                android:paddingLeft="10dip"
+                android:paddingRight="24dip"
+                android:text="خون زیر ناخن"
+                android:textColor="#222222"
+                android:textSize="20dip"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="#f6f6f6"
+                android:orientation="vertical" >
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/btnH"
+                style="?android:attr/borderlessButtonStyle"
+                android:layout_width="fill_parent"
+                android:layout_height="88dip"
+                android:background="@drawable/pressed_btn"
+                android:drawablePadding="24dip"
+                android:drawableRight="@drawable/ei_chest110"
+                android:gravity="right|center"
+                android:paddingLeft="10dip"
+                android:paddingRight="24dip"
+                android:text="گیر کردن حلقه انگشتر"
+                android:textColor="#222222"
+                android:textSize="20dip"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="#f6f6f6"
+                android:orientation="vertical" >
+            </LinearLayout>
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#eeeeee"
+    android:gravity="center_horizontal"
+    android:orientation="vertical" >
+ <include layout="@layout/actionbar_long"/>
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="2.14" >
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <Button
+                android:id="@+id/btnnose"
+                android:layout_width="fill_parent"
+                android:layout_height="64dip"
+                android:background="@drawable/pressed_btn"
+                android:gravity="right|center"
+                android:paddingLeft="10dip"
+                android:paddingRight="16dip"
+                android:text="آسیب به بینی"
+                android:textColor="#222222"
+                android:textSize="15dip"
+                android:textStyle="bold" android:drawablePadding="24dip" android:drawableRight="@drawable/ei_spinal_cord72"
+      style="?android:attr/borderlessButtonStyle" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:orientation="vertical" android:background="#f6f6f6">
+            </LinearLayout>
+            <Button
+                android:id="@+id/btneye"
+                android:layout_width="fill_parent"
+                android:layout_height="64dip"
+                android:background="@drawable/pressed_btn"
+                android:gravity="right|center"
+                android:paddingLeft="10dip"
+                android:paddingRight="16dip"
+                android:text="آسیب به چشم"
+                android:textColor="#222222"
+                android:textSize="15dip"
+                android:textStyle="bold" android:drawablePadding="24dip" android:drawableRight="@drawable/ei_spinal_cord72"
+      style="?android:attr/borderlessButtonStyle" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:orientation="vertical" android:background="#f6f6f6">
+            </LinearLayout>
+            <Button
+                android:id="@+id/btnteeth"
+                android:layout_width="fill_parent"
+                android:layout_height="64dip"
+                android:background="@drawable/pressed_btn"
+                android:drawablePadding="24dip"
+                android:gravity="right|center"
+                android:paddingLeft="10dip"
+                android:paddingRight="16dip"
+                android:text="آسیب به دندان"
+                android:textColor="#222222"
+                android:textSize="15dip"
+                android:textStyle="bold" android:drawableRight="@drawable/ei_spinal_cord72"
+      style="?android:attr/borderlessButtonStyle" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:orientation="vertical" android:background="#f6f6f6">
+            </LinearLayout>
+            <Button
+                android:id="@+id/btnspinal_cord"
+                android:layout_width="fill_parent"
+                android:layout_height="64dip"
+                android:background="@drawable/pressed_btn"
+                android:gravity="right|center"
+                android:paddingLeft="10dip"
+                android:paddingRight="16dip"
+                android:text="آسیب به ستون فقرات"
+                android:textColor="#222222"
+                android:textSize="15dip"
+                android:textStyle="bold" android:drawablePadding="24dip" android:drawableRight="@drawable/ei_spinal_cord72"
+      style="?android:attr/borderlessButtonStyle" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:orientation="vertical" android:background="#f6f6f6">
+            </LinearLayout>
+             <Button
+                 android:id="@+id/btnhead"
+                 android:layout_width="fill_parent"
+                 android:layout_height="64dip"
+                 android:background="@drawable/pressed_btn"
+                 android:gravity="right|center"
+                 android:paddingLeft="10dip"
+                 android:paddingRight="16dip"
+                 android:text="آسیب به سر"
+                 android:textColor="#222222"
+                 android:textSize="15dip"
+                 android:textStyle="bold" android:drawablePadding="24dip" android:drawableRight="@drawable/ei_spinal_cord72"
+      style="?android:attr/borderlessButtonStyle" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:orientation="vertical" android:background="#f6f6f6">
+            </LinearLayout>
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

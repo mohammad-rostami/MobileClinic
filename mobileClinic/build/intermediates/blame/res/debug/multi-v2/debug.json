@@ -1,0 +1,79 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\Projects\\MobileClinic\\sliding_menu_library\\build\\intermediates\\packaged_res\\debug\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,29",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,1223",
+                        "endLines": "28,29",
+                        "endColumns": "24,42",
+                        "endOffsets": "1218,1261"
+                    },
+                    "to": {
+                        "startLines": "3,31",
+                        "startColumns": "4,4",
+                        "startOffsets": "100,1312",
+                        "endLines": "29,31",
+                        "endColumns": "24,42",
+                        "endOffsets": "1263,1350"
+                    }
+                },
+                {
+                    "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,5,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "121,172,59",
+                        "endColumns": "49,111,60",
+                        "endOffsets": "166,279,115"
+                    },
+                    "to": {
+                        "startLines": "32,33,34",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "1355,1405,1517",
+                        "endColumns": "49,111,60",
+                        "endOffsets": "1400,1512,1573"
+                    }
+                },
+                {
+                    "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "44",
+                        "endOffsets": "97"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "44",
+                        "endOffsets": "95"
+                    }
+                },
+                {
+                    "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "43",
+                        "endOffsets": "96"
+                    },
+                    "to": {
+                        "startLines": "30",
+                        "startColumns": "4",
+                        "startOffsets": "1268",
+                        "endColumns": "43",
+                        "endOffsets": "1307"
+                    }
+                }
+            ]
+        }
+    ]
+}

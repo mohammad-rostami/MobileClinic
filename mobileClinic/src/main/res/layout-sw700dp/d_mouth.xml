@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#eeeeee"
+    android:orientation="vertical" android:gravity="right">
+
+    <include layout="@layout/actionbar_long" />
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:orientation="vertical"
+            android:padding="8dip" >
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingTop="24dip" >
+
+                <LinearLayout
+                    android:id="@+id/list_aft"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/pressed_card"
+                    android:gravity="right"
+                    android:orientation="vertical"
+                    android:paddingBottom="8dip" >
+
+                    <ImageView
+                        android:id="@+id/ImageView08"
+                        android:layout_width="140dip"
+                        android:layout_height="140dip"
+                        android:src="@drawable/aft" />
+
+                    <TextView
+                        android:id="@+id/TextView15"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="8dip"
+                        android:text="آفت"
+                        android:textColor="#212121"
+                        android:textSize="12dip"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/TextView16"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="8dip"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="4dip"
+                        android:gravity="top|right"
+                        android:lines="2"
+                        android:text="ضایعات کوچک دردناک در دهان"
+                        android:textColor="#616161"
+                        android:textSize="8dip" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/list_abse"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="32dip"
+                    android:layout_marginRight="32dip"
+                    android:background="@drawable/pressed_card"
+                    android:gravity="right"
+                    android:orientation="vertical"
+                    android:paddingBottom="8dip" >
+
+                    <ImageView
+                        android:id="@+id/ImageView09"
+                        android:layout_width="140dip"
+                        android:layout_height="140dip"
+                        android:src="@drawable/abse" />
+
+                    <TextView
+                        android:id="@+id/TextView20"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="8dip"
+                        android:text="آبسه دندان"
+                        android:textColor="#212121"
+                        android:textSize="12dip"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/TextView18"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="8dip"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="4dip"
+                        android:gravity="top|right"
+                        android:lines="2"
+                        android:text="قرمزی و ورم لثه به همراه درد"
+                        android:textColor="#616161"
+                        android:textSize="8dip" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/list_lase"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/pressed_card"
+                    android:gravity="right"
+                    android:orientation="vertical"
+                    android:paddingBottom="8dip" >
+
+                    <ImageView
+                        android:id="@+id/ImageView04"
+                        android:layout_width="140dip"
+                        android:layout_height="140dip"
+                        android:src="@drawable/bimari_lase" />
+
+                    <TextView
+                        android:id="@+id/TextView05"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="8dip"
+                        android:text="بیماری لثه"
+                        android:textColor="#212121"
+                        android:textSize="9dip"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/TextView06"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="8dip"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="4dip"
+                        android:gravity="top|right"
+                        android:lines="2"
+                        android:text="لثه‌های متورم با خونریزی زیاد "
+                        android:textColor="#616161"
+                        android:textSize="8dip" />
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingTop="32dip" >
+
+                <LinearLayout
+                    android:id="@+id/list_piore"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/pressed_card"
+                    android:gravity="right"
+                    android:orientation="vertical"
+                    android:paddingBottom="8dip" >
+
+                    <ImageView
+                        android:id="@+id/ImageView06"
+                        android:layout_width="140dip"
+                        android:layout_height="140dip"
+                        android:src="@drawable/pioreh" />
+
+                    <TextView
+                        android:id="@+id/TextView14"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="8dip"
+                        android:text="پیوره"
+                        android:textColor="#212121"
+                        android:textSize="12dip"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/TextView12"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="8dip"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="4dip"
+                        android:gravity="top|right"
+                        android:lines="2"
+                        android:text=" التهاب بافت‌های پیرادندانی است"
+                        android:textColor="#616161"
+                        android:textSize="8dip" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/list_florozis"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="32dip"
+                    android:layout_marginRight="32dip"
+                    android:background="@drawable/pressed_card"
+                    android:gravity="right"
+                    android:orientation="vertical"
+                    android:paddingBottom="8dip" >
+
+                    <ImageView
+                        android:id="@+id/ImageView02"
+                        android:layout_width="140dip"
+                        android:layout_height="140dip"
+                        android:src="@drawable/florosis_dandan" />
+
+                    <TextView
+                        android:id="@+id/TextView03"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="8dip"
+                        android:text="فلوئوروزیس دندانی"
+                        android:textColor="#212121"
+                        android:textSize="12dip"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/TextView04"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="8dip"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="4dip"
+                        android:gravity="top|right"
+                        android:lines="2"
+                        android:text="تغییر رنگ شدید دندان در اثر فلوئور اضافی موجود در آب"
+                        android:textColor="#616161"
+                        android:textSize="8dip" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/list_locoplak"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/pressed_card"
+                    android:gravity="right"
+                    android:orientation="vertical"
+                    android:paddingBottom="8dip" >
+
+                    <ImageView
+                        android:id="@+id/ImageView05"
+                        android:layout_width="140dip"
+                        android:layout_height="140dip"
+                        android:src="@drawable/loco_plack" />
+
+                    <TextView
+                        android:id="@+id/TextView09"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="8dip"
+                        android:text="لوکو پلاکی"
+                        android:textColor="#212121"
+                        android:textSize="9dip"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/TextView10"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="8dip"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="4dip"
+                        android:gravity="top|right"
+                        android:lines="2"
+                        android:text="ضایعه سفید رنگ در دهان"
+                        android:textColor="#616161"
+                        android:textSize="8dip" />
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingTop="32dip" >
+
+                <LinearLayout
+                    android:id="@+id/list_jerm"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/pressed_card"
+                    android:gravity="right"
+                    android:orientation="vertical"
+                    android:paddingBottom="8dip" >
+
+                    <ImageView
+                        android:id="@+id/ImageView18"
+                        android:layout_width="140dip"
+                        android:layout_height="140dip"
+                        android:src="@drawable/jerm_dandan" />
+
+                    <TextView
+                        android:id="@+id/TextView33"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="8dip"
+                        android:text="جرم"
+                        android:textColor="#212121"
+                        android:textSize="9dip"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/TextView35"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="8dip"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="4dip"
+                        android:gravity="top|right"
+                        android:lines="2"
+                        android:textColor="#616161"
+                        android:textSize="8dip" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/list_poosidegi"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="32dip"
+                    android:layout_marginRight="32dip"
+                    android:background="@drawable/pressed_card"
+                    android:gravity="right"
+                    android:orientation="vertical"
+                    android:paddingBottom="8dip" >
+
+                    <ImageView
+                        android:id="@+id/ImageView15"
+                        android:layout_width="140dip"
+                        android:layout_height="140dip"
+                        android:src="@drawable/poosidegi_dandan" />
+
+                    <TextView
+                        android:id="@+id/TextView30"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="8dip"
+                        android:text="پوسیدگی دندان"
+                        android:textColor="#212121"
+                        android:textSize="9dip"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/TextView29"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="8dip"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="4dip"
+                        android:gravity="top|right"
+                        android:lines="2"
+                        android:textColor="#616161"
+                        android:textSize="8dip" android:text="تغییر رنگ و دردناک شدن دندان"/>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/list_glosit"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/pressed_card"
+                    android:gravity="right"
+                    android:orientation="vertical"
+                    android:paddingBottom="8dip" >
+
+                    <ImageView
+                        android:id="@+id/ImageView14"
+                        android:layout_width="140dip"
+                        android:layout_height="140dip"
+                        android:src="@drawable/zaban_amas" />
+
+                    <TextView
+                        android:id="@+id/TextView27"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="8dip"
+                        android:gravity="right"
+                        android:text="گلوسیت"
+                        android:textColor="#212121"
+                        android:textSize="9dip"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/TextView25"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="8dip"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="4dip"
+                        android:gravity="top|right"
+                        android:lines="2"
+                        android:textColor="#616161"
+                        android:textSize="8dip" android:text="التهاب یا آماس زبان"/>
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingTop="32dip" android:gravity="right">
+
+                <LinearLayout
+                    android:layout_width="140dip"
+                    android:layout_height="wrap_content"
+                    android:background="#eeeeee"
+                    android:gravity="right"
+                    android:orientation="vertical"
+                    android:paddingBottom="8dip" >
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="140dip"
+                    android:layout_height="wrap_content"
+                    android:background="#eeeeee"
+                    android:gravity="right"
+                    android:orientation="vertical"
+                    android:paddingBottom="8dip" android:layout_marginRight="32dip" android:layout_marginLeft="32dip">
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/list_barfak"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/pressed_card"
+                    android:gravity="right"
+                    android:orientation="vertical"
+                    android:paddingBottom="8dip" >
+
+                    <ImageView
+                        android:id="@+id/ImageView01"
+                        android:layout_width="140dip"
+                        android:layout_height="140dip"
+                        android:src="@drawable/barfak_siah" />
+
+                    <TextView
+                        android:id="@+id/TextView02"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="8dip"
+                        android:text="برفک سیاه"
+                        android:textColor="#212121"
+                        android:textSize="9dip"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/TextView01"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="8dip"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="4dip"
+                        android:gravity="top|right"
+                        android:lines="2"
+                        android:text="پرزهای سیاه بر روی زبان"
+                        android:textColor="#616161"
+                        android:textSize="8dip" />
+                </LinearLayout>
+
+            </LinearLayout>
+        </LinearLayout>
+
+    </ScrollView>
+
+    <include layout="@layout/guidtxt" />
+
+</LinearLayout>

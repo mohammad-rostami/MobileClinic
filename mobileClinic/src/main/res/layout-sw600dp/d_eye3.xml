@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" android:gravity="right" android:background="#f2f2f2">
+       <include layout="@layout/actionbar_long" />
+
+       <LinearLayout
+           android:layout_width="match_parent"
+           android:layout_height="fill_parent"
+           android:orientation="vertical" android:gravity="center_horizontal" android:padding="16dip">
+
+           <ScrollView
+               android:id="@+id/scrollView1"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content" >
+
+               <LinearLayout
+                   android:layout_width="match_parent"
+                   android:layout_height="match_parent"
+                   android:orientation="vertical" android:gravity="right" android:paddingRight="8dip">
+
+                   <CheckBox
+                       android:id="@+id/chB1"
+                       android:layout_width="fill_parent"
+                       android:layout_height="50dip"
+                       android:layout_marginBottom="4dip"
+                       android:gravity="right|center_vertical"
+                       android:text="انحنادار دیدن خطوط"
+                       android:button="@drawable/check_box"
+                       android:textColor="#212121" android:textSize="20dip"/>
+
+                   <CheckBox
+                       android:id="@+id/chB2"
+                       android:layout_width="fill_parent"
+                       android:layout_height="50dip"
+                       android:layout_marginBottom="4dip"
+                       android:gravity="right|center_vertical"
+                       android:text="تاری دید"
+                       android:button="@drawable/check_box"
+                       android:textColor="#212121" android:textSize="20dip"/>
+
+                   <CheckBox
+                       android:id="@+id/chB3"
+                       android:layout_width="fill_parent"
+                       android:layout_height="50dip"
+                       android:layout_marginBottom="4dip"
+                       android:gravity="right|center_vertical"
+                       android:text="مصرف داروی کورتن"
+                       android:button="@drawable/check_box"
+                       android:textColor="#212121" android:textSize="20dip"/>
+
+                   <CheckBox
+                       android:id="@+id/chB4"
+                       android:layout_width="fill_parent"
+                       android:layout_height="50dip"
+                       android:layout_marginBottom="4dip"
+                       android:gravity="right|center_vertical"
+                       android:text="قرمزی لبه‌های پلک"
+                       android:button="@drawable/check_box"
+                       android:textColor="#212121" android:textSize="20dip"/>
+
+                   <CheckBox
+                       android:id="@+id/chB5"
+                       android:layout_width="fill_parent"
+                       android:layout_height="50dip"
+                       android:layout_marginBottom="4dip"
+                       android:gravity="right|center_vertical"
+                       android:text="التهاب لبه پلک چشم"
+                       android:button="@drawable/check_box"
+                       android:textColor="#212121" android:textSize="20dip"/>
+
+                   <CheckBox
+                       android:id="@+id/chB6"
+                       android:layout_width="fill_parent"
+                       android:layout_height="50dip"
+                       android:layout_marginBottom="4dip"
+                       android:gravity="right|center_vertical"
+                       android:text="قرمزی چشم"
+                       android:button="@drawable/check_box"
+                       android:textColor="#212121" android:textSize="20dip"/>
+
+                   <CheckBox
+                       android:id="@+id/chB7"
+                       android:layout_width="fill_parent"
+                       android:layout_height="50dip"
+                       android:layout_marginBottom="4dip"
+                       android:gravity="right|center_vertical"
+                       android:text="حساسیت به نور"
+                       android:button="@drawable/check_box"
+                       android:textColor="#212121" android:textSize="20dip"/>
+
+                   <CheckBox
+                       android:id="@+id/chB8"
+                       android:layout_width="fill_parent"
+                       android:layout_height="50dip"
+                       android:layout_marginBottom="4dip"
+                       android:gravity="right|center_vertical"
+                       android:text="شب کوری"
+                       android:button="@drawable/check_box"
+                       android:textColor="#212121" android:textSize="20dip"/>
+
+                   <CheckBox
+                       android:id="@+id/chB9"
+                       android:layout_width="fill_parent"
+                       android:layout_height="50dip"
+                       android:layout_marginBottom="8dip"
+                       android:button="@drawable/check_box"
+                       android:gravity="right|center_vertical"
+                       android:text="مشکل در دید کناری"
+                       android:textColor="#212121" android:textSize="20dip"/>
+
+                   <CheckBox
+                       android:id="@+id/chB10"
+                       android:layout_width="fill_parent"
+                       android:layout_height="50dip"
+                       android:layout_marginBottom="4dip"
+                       android:gravity="right|center_vertical"
+                       android:text="خشکی چشم"
+                       android:button="@drawable/check_box"
+                       android:textColor="#212121" android:textSize="20dip"/>
+
+               </LinearLayout>
+
+           </ScrollView>
+
+           <Button
+               android:id="@+id/btnanswer"
+               android:layout_width="fill_parent"
+               android:layout_height="60dip"
+               android:text="انتخاب" style="?android:attr/borderlessButtonStyle" android:background="#009688" android:layout_marginTop="24dip" android:textSize="22dip" android:layout_marginRight="8dip" android:layout_marginLeft="8dip"/>
+
+       </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="left|center_horizontal"
+    android:orientation="vertical" >
+       <include layout="@layout/actionbar_long" />
+
+
+       <LinearLayout
+           android:layout_width="match_parent"
+           android:layout_height="fill_parent"
+           android:orientation="vertical" android:gravity="right" android:background="#FFFFFF">
+
+           <LinearLayout
+               android:id="@+id/btnpainsearch"
+               android:layout_width="match_parent"
+               android:layout_height="150dip"
+               android:gravity="right|center_vertical"
+               android:orientation="vertical"
+               android:paddingRight="24dip" >
+
+               <TextView
+                   android:id="@+id/txt1"
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="جستجو بر اساس درد"
+                   android:textColor="#222222" android:textSize="22dip"/>
+
+               <TextView
+                   android:id="@+id/txt3"
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:layout_marginTop="16dip"
+                   android:text="این روش بر اساس درد در اندام پیش می‌رود"
+                   android:textColor="#afb0ad"
+                   android:textSize="16dip" />
+
+           </LinearLayout>
+
+           <LinearLayout
+               android:layout_width="match_parent"
+               android:layout_height="1dp"
+               android:background="#f6f6f6"
+               android:orientation="vertical" >
+           </LinearLayout>
+
+           <LinearLayout
+               android:id="@+id/btnsignsearch"
+               android:layout_width="match_parent"
+               android:layout_height="150dip"
+               android:gravity="right|center_vertical"
+               android:orientation="vertical"
+               android:paddingRight="24dip" >
+
+               <TextView
+                   android:id="@+id/txt2"
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="جستجو بر اساس سایر علایم"
+                   android:textColor="#222222" android:textSize="22dip"/>
+
+               <TextView
+                   android:id="@+id/txt4"
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:layout_marginLeft="24dip"
+                   android:layout_marginTop="16dip"
+                   android:gravity="right"
+                   android:text="این روش بر اساس علایمی مثل نوع ادرار، ورم بدن و ... پیش می‌رود"
+                   android:textColor="#afb0ad"
+                   android:textSize="16dip" />
+
+           </LinearLayout>
+         
+           <LinearLayout
+               android:layout_width="match_parent"
+               android:layout_height="1dp"
+               android:background="#f6f6f6"
+               android:orientation="vertical" >
+           </LinearLayout>
+           </LinearLayout>
+           </LinearLayout>      

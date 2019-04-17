@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical" >
+       <include layout="@layout/actionbar_long" />
+
+       <LinearLayout
+           android:layout_width="match_parent"
+           android:layout_height="fill_parent"
+           android:orientation="vertical" android:gravity="center_horizontal" android:background="#fafafa" android:padding="16dip">
+
+           <ScrollView
+               android:id="@+id/scrollView1"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content" >
+
+               <LinearLayout
+                   android:layout_height="match_parent"
+                   android:orientation="vertical" android:gravity="right" android:paddingRight="8dip" android:layout_width="fill_parent">
+
+                   <CheckBox
+                       android:id="@+id/chB1"
+                       android:layout_width="fill_parent"
+                       android:layout_height="50dip"
+                       android:gravity="right"
+                       android:text="سوء هاضمه"
+                       android:button="@drawable/check_box"
+                       android:textColor="#212121" android:textSize="20dip"/>
+
+                   <CheckBox
+                       android:id="@+id/chB2"
+                       android:layout_width="fill_parent"
+                       android:layout_height="50dip"
+                       android:gravity="right"
+                       android:text="سوزش سردل"
+                       android:button="@drawable/check_box"
+                       android:textColor="#212121" android:textSize="20dip"/>
+
+                   <CheckBox
+                       android:id="@+id/chB3"
+                       android:layout_width="fill_parent"
+                       android:layout_height="50dip"
+                       android:gravity="right"
+                       android:button="@drawable/check_box"
+                       android:text="نفخ شکم"
+                       android:textColor="#212121" android:textSize="20dip"/>
+
+                   <CheckBox
+                       android:id="@+id/chB4"
+                       android:layout_width="fill_parent"
+                       android:layout_height="50dip"
+                       android:gravity="right"
+                       android:text="مدفوع خونی"
+                       android:button="@drawable/check_box"
+                       android:textColor="#212121" android:textSize="20dip"/>
+
+                   <CheckBox
+                       android:id="@+id/chB5"
+                       android:layout_width="fill_parent"
+                       android:layout_height="50dip"
+                       android:gravity="right"
+                       android:text="سرفه"
+                       android:button="@drawable/check_box"
+                       android:textColor="#212121" android:textSize="20dip"/>
+
+                   <CheckBox
+                       android:id="@+id/chB6"
+                       android:layout_width="fill_parent"
+                       android:layout_height="50dip"
+                       android:gravity="right"
+                       android:text="تب"
+                       android:button="@drawable/check_box"
+                       android:textColor="#212121" android:textSize="20dip"/>
+
+                   <CheckBox
+                       android:id="@+id/chB7"
+                       android:layout_width="fill_parent"
+                       android:layout_height="50dip"
+                       android:gravity="right"
+                       android:text="انگشت چماغی ریه"
+                       android:button="@drawable/check_box"
+                       android:textColor="#212121" android:textSize="20dip"/>
+
+                   <CheckBox
+                       android:id="@+id/chB8"
+                       android:layout_width="fill_parent"
+                       android:layout_height="50dip"
+                       android:gravity="right"
+                       android:text="خلط چرک ریه"
+                       android:button="@drawable/check_box"
+                       android:textColor="#212121" android:textSize="20dip"/>
+
+                   <CheckBox
+                       android:id="@+id/chB9"
+                       android:layout_width="fill_parent"
+                       android:layout_height="50dip"
+                       android:gravity="right"
+                       android:text="خلط خونی ریه"
+                       android:button="@drawable/check_box"
+                       android:textColor="#212121" android:textSize="20dip"/>
+
+               </LinearLayout>
+
+           </ScrollView>
+
+              <Button
+               android:id="@+id/btnanswer"
+               android:layout_width="fill_parent"
+               android:layout_height="60dip"
+               android:text="انتخاب" android:background="#009688" style="?android:attr/borderlessButtonStyle" android:layout_marginTop="24dip" android:textSize="22dip" android:layout_marginRight="8dip" android:layout_marginLeft="8dip"/>
+
+       </LinearLayout>
+
+</LinearLayout>

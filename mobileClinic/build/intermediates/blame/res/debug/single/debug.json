@@ -1,0 +1,1254 @@
+[
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\anim_exit1.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\anim\\exit1.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_emergency.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\emergency.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout_d_bini.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout\\d_bini.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout_actionbar_long.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout\\actionbar_long.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-small_e_atelbandi.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-small\\e_atelbandi.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable_atelt4.jpg.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable\\atelt4.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_chest_hurt2.jpg.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-hdpi\\chest_hurt2.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_akne.jpg.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\akne.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ilness_diagnosis.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-hdpi\\ilness_diagnosis.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout_emergency.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout\\emergency.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout_e_basicsupport.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout\\e_basicsupport.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_zaban_amas.jpg.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\zaban_amas.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_bimari_lase.jpg.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\bimari_lase.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_diselected_focused.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-mdpi\\diselected_focused.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-sw360dp_pager.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-sw360dp\\pager.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout_e_atelbandi.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout\\e_atelbandi.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-sw700dp_d_abdomen3.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-sw700dp\\d_abdomen3.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-small_d_hand.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-small\\d_hand.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_line_color.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\line_color.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_eltehab_lase.jpg.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\eltehab_lase.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btnemergency.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\btnemergency.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-sw700dp_d_bodypart.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-sw700dp\\d_bodypart.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bleeding4.jpg.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-hdpi\\bleeding4.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_diagnosis_color1.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\diagnosis_color1.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-small_attention.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-small\\attention.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout_text1.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout\\text1.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable_ghalb.jpg.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable\\ghalb.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\anim_enter.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\anim\\enter.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bleeding3.jpg.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-hdpi\\bleeding3.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_chest_hurt1.jpg.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-hdpi\\chest_hurt1.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_actionbar_short1.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-sw600dp\\actionbar_short1.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable_atelt3.jpg.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable\\atelt3.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_d_bini.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-sw600dp\\d_bini.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-small_e_bimari.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-small\\e_bimari.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_gal.jpg.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\gal.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-sw700dp_d_abdomen2.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-sw700dp\\d_abdomen2.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_baby_color.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\baby_color.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-sw700dp_btndown.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-sw700dp\\btndown.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout_diagnosis.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout\\diagnosis.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_magas_paran.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\magas_paran.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-small_d_bodypart.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-small\\d_bodypart.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-sw700dp_actionbar_short1.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-sw700dp\\actionbar_short1.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_diselected.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-mdpi\\diselected.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_kahir.jpg.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\kahir.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_main.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-sw600dp\\main.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable_atelt2.jpg.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable\\atelt2.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout_d_eye2.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout\\d_eye2.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_d_mouth.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-sw600dp\\d_mouth.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout_e_burning.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout\\e_burning.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_pager.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-sw600dp\\pager.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bleeding2.jpg.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-hdpi\\bleeding2.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_kachali_poost.jpg.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\kachali_poost.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable_hamed.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable\\hamed.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-sw700dp_e_bimari.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-sw700dp\\e_bimari.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-sw700dp_e_burning.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-sw700dp\\e_burning.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_line.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\line.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-sw700dp_d_eye1.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-sw700dp\\d_eye1.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_pioreh.jpg.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\pioreh.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable_page4.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable\\page4.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_e_chesthurt.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-sw600dp\\e_chesthurt.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_actionbar_short.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-sw600dp\\actionbar_short.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable_atelt5.jpg.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable\\atelt5.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout_about.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout\\about.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout_sample.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout\\sample.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btnaboutlarge0.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\btnaboutlarge0.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_chest_hurt4.jpg.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-hdpi\\chest_hurt4.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ei_spinal_cord110.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\ei_spinal_cord110.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-sw700dp_emergency.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-sw700dp\\emergency.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_exit1.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\exit1.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-sw700dp_d_sexual.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-sw700dp\\d_sexual.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bleeding.jpg.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-hdpi\\bleeding.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ei_hand72.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\ei_hand72.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_about_dark.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\about_dark.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout_btndown.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout\\btndown.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-sw700dp_d_bini.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-sw700dp\\d_bini.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-sw700dp_e_chesthurt.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-sw700dp\\e_chesthurt.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_florosis_dandan.jpg.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\florosis_dandan.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_gol_mozhe.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\gol_mozhe.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bleeding5.jpg.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-hdpi\\bleeding5.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout_d_ear.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout\\d_ear.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ei_heatstroke72.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\ei_heatstroke72.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable_answer_btn.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable\\answer_btn.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-sw480dp_d_answer.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-sw480dp\\d_answer.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable_page2.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable\\page2.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-small_d_leg.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-small\\d_leg.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-small_sample.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-small\\sample.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable_atelf4.jpg.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable\\atelf4.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ei_chest110.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\ei_chest110.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_sorkhche.jpg.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\sorkhche.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_body_woman.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\body_woman.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_dermatit_seboric.jpg.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\dermatit_seboric.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cb_selected_focused.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-mdpi\\cb_selected_focused.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-sw360dp_e_atelbandi.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-sw360dp\\e_atelbandi.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout_pager.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout\\pager.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-sw480dp_btndown.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-sw480dp\\btndown.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\anim_fade_in.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ei_chest72.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\ei_chest72.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_guidtxt.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-sw600dp\\guidtxt.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_d_leg.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-sw600dp\\d_leg.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_d_eye2.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-sw600dp\\d_eye2.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout_actionbar_short1.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout\\actionbar_short1.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_about_color.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\about_color.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_kachali_sar.jpg.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\kachali_sar.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_basicsup.jpg.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-hdpi\\basicsup.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ei_nose72.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\ei_nose72.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abse.jpg.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\abse.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-sw700dp_menu.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-sw700dp\\menu.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-small_diagnosis.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-small\\diagnosis.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_aft.jpg.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\aft.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-sw700dp_e_atelbandi.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-sw700dp\\e_atelbandi.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_menu.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-sw600dp\\menu.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-small_d_eye1.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-small\\d_eye1.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable_page3.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable\\page3.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-sw700dp_d_leg.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-sw700dp\\d_leg.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable_atelf5.jpg.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable\\atelf5.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_melasma.jpg.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\melasma.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_kachali_rangarang.jpg.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\kachali_rangarang.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout_e_headhurt.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout\\e_headhurt.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_d_eye1.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-sw600dp\\d_eye1.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ei_blood110.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\ei_blood110.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_e_bimari.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-sw600dp\\e_bimari.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cb_selected.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-mdpi\\cb_selected.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btnaboutlarge.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\btnaboutlarge.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable_check_box.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable\\check_box.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abele_morghan1.jpg.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\abele_morghan1.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ei_poisoning110.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\ei_poisoning110.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-small_main.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-small\\main.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_basicsup3.jpg.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-hdpi\\basicsup3.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout_menu.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout\\menu.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btndiagnosis.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\btndiagnosis.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-sw700dp_d_abdomen.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-sw700dp\\d_abdomen.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout_d_sexual.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout\\d_sexual.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_d_hand.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-sw600dp\\d_hand.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout_d_eye1.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout\\d_eye1.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_sample.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-sw600dp\\sample.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_loco_plack.jpg.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\loco_plack.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bleeding1.jpg.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-hdpi\\bleeding1.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_slide_2.jpg.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\slide_2.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_emergency1.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\emergency1.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-small_d_abdomen3.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-small\\d_abdomen3.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout_d_answer.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout\\d_answer.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_rate_color.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\rate_color.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ei_burn110.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\ei_burn110.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-sw700dp_diagnosis.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-sw700dp\\diagnosis.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_left.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\anim\\slide_in_left.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_atel_110.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\atel_110.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ei_frostbite110.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\ei_frostbite110.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_body.jpg.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\body.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_question_110.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\question_110.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_about_color1.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\about_color1.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\anim_exit.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\anim\\exit.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable_atelt1.jpg.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable\\atelt1.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-sw700dp_main.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-sw700dp\\main.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-small_e_chesthurt.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-small\\e_chesthurt.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ei_nose110.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\ei_nose110.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_back.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\back.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ei_hand110.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\ei_hand110.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_right.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\anim\\slide_out_right.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout_actionbar_short.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout\\actionbar_short.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ofoonat_gharchi.jpg.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\ofoonat_gharchi.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ei_foot110.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\ei_foot110.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_slide_3.jpg.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\slide_3.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_expand_less_dark.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\expand_less_dark.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_pesoyazis.jpg.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\pesoyazis.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout_d_mouth.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout\\d_mouth.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable_shadow.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable\\shadow.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ei_foot72.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\ei_foot72.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable_pressed_grnbtn.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable\\pressed_grnbtn.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_d_abdomen1.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-sw600dp\\d_abdomen1.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_exit.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\exit.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_aritm.jpg.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\aritm.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout_e_chesthurt.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout\\e_chesthurt.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_kachali_pa.jpg.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\kachali_pa.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable_atelf1.jpg.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable\\atelf1.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable_pressed_card.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable\\pressed_card.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-sw700dp_e_headhurt.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-sw700dp\\e_headhurt.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cb_diselected_focused.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-mdpi\\cb_diselected_focused.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_d_abdomen2.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-sw600dp\\d_abdomen2.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_khal.jpg.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\khal.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btndiagnosislarge0.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\btndiagnosislarge0.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_slide_4.jpg.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\slide_4.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_vitiligo.jpg.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\vitiligo.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_emergency.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-sw600dp\\emergency.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_zaede_goshti.jpg.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\zaede_goshti.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_e_atelbandi.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-sw600dp\\e_atelbandi.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout_e_bimari.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout\\e_bimari.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ei_heatstroke110.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\ei_heatstroke110.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_question_72.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\question_72.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_header.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\header.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_selected_focused.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-mdpi\\selected_focused.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ei_spinal_cord72.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\ei_spinal_cord72.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btnabout.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\btnabout.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-sw360dp_e_bimari.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-sw360dp\\e_bimari.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable_atelf2.jpg.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable\\atelf2.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_slide_1.jpg.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\slide_1.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_btndown.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-sw600dp\\btndown.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_back1.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\back1.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-small_d_bini.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-small\\d_bini.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_sorkhak.jpg.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\sorkhak.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-sw480dp_d_eye1.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-sw480dp\\d_eye1.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_kandidiazis.jpg.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\kandidiazis.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-small_pager.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-small\\pager.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_d_abdomen3.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-sw600dp\\d_abdomen3.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_emergency_dark.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\emergency_dark.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_atel_72.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\atel_72.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-small_e_burning.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-small\\e_burning.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_bimari_nagahani_110.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\bimari_nagahani_110.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout_d_hand.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout\\d_hand.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable_pressed_menubtn.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable\\pressed_menubtn.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_likn_plan.jpg.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\likn_plan.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_d_bodypart.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-sw600dp\\d_bodypart.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_expand_dark.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\expand_dark.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_moloskom.jpg.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\moloskom.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ei_poisoning72.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\ei_poisoning72.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-sw360dp_d_eye1.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-sw360dp\\d_eye1.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_d_answer.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-sw600dp\\d_answer.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout_d_abdomen1.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout\\d_abdomen1.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_e_burning.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-sw600dp\\e_burning.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ei_blood72.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\ei_blood72.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable_page1.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable\\page1.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_dodoak.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\dodoak.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-sw700dp_pager.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-sw700dp\\pager.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-sw700dp_actionbar_long.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-sw700dp\\actionbar_long.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_basicsup2.jpg.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-hdpi\\basicsup2.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable_atelf3.jpg.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable\\atelf3.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout_text.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout\\text.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-sw480dp_sample.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-sw480dp\\sample.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_menu.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\menu.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-small_e_basicsupport.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-small\\e_basicsupport.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_emergency_color.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\emergency_color.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_d_skin.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-sw600dp\\d_skin.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btnemergencylarge.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\btnemergencylarge.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_d_eye3.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-sw600dp\\d_eye3.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_illness_icon.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-hdpi\\illness_icon.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_nakhonak.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\nakhonak.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-sw700dp_attention.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-sw700dp\\attention.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-small_e_headhurt.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-small\\e_headhurt.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_basicsup1.jpg.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-hdpi\\basicsup1.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout_d_abdomen2.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout\\d_abdomen2.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_panjom.jpg.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\panjom.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_diagnosis_color.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\diagnosis_color.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_attention.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-sw600dp\\attention.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_d_sexual.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-sw600dp\\d_sexual.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_rate_color1.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\rate_color1.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_zona.jpg.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\zona.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-sw700dp_e_basicsupport.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-sw700dp\\e_basicsupport.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout_slidingmenumain.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\sliding_menu_library\\build\\intermediates\\packaged_res\\debug\\layout\\slidingmenumain.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable_radio_button.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable\\radio_button.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ei_burn72.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\ei_burn72.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable_nakhon.jpg.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable\\nakhon.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-sw700dp_d_eye3.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-sw700dp\\d_eye3.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ei_basic_sup110.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\ei_basic_sup110.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ei_atel_bandi72.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\ei_atel_bandi72.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_melanoma.jpg.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\melanoma.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btndiagnosislarge.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\btndiagnosislarge.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-sw700dp_d_skin.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-sw700dp\\d_skin.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-small_emergency.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-small\\emergency.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-small_d_sexual.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-small\\d_sexual.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout_attention.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout\\attention.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-sw480dp_pager.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-sw480dp\\pager.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-sw700dp_actionbar_short.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-sw700dp\\actionbar_short.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout_d_eye3.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout\\d_eye3.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_magas_paran.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-mdpi\\magas_paran.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_karsinom_bazal.jpg.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\karsinom_bazal.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btnemergencylarge0.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\btnemergencylarge0.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout_d_abdomen3.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout\\d_abdomen3.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ei_basic_sup72.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\ei_basic_sup72.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout_d_leg.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout\\d_leg.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_diagnosis.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-sw600dp\\diagnosis.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_diagnosis_dark.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\diagnosis_dark.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-small_menu.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-small\\menu.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout_d_skin.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout\\d_skin.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_actionbar_long.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-sw600dp\\actionbar_long.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-sw700dp_d_answer.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-sw700dp\\d_answer.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_bimari_nagahani_72.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\bimari_nagahani_72.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_poosidegi_dandan.jpg.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\poosidegi_dandan.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-sw360dp_sample.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-sw360dp\\sample.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cb_diselected.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-mdpi\\cb_diselected.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_d_ear.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-sw600dp\\d_ear.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_jerm_dandan.jpg.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\jerm_dandan.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\anim_enter1.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\anim\\enter1.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_barfak_siah.jpg.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\barfak_siah.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout_d_bodypart.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout\\d_bodypart.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout_guidtxt.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout\\guidtxt.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_zard_zakhm.jpg.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\zard_zakhm.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable_mohammad.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable\\mohammad.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_selected.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-mdpi\\selected.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-sw700dp_d_abdomen1.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-sw700dp\\d_abdomen1.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_d_abdomen.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-sw600dp\\d_abdomen.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ei_frostbite72.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\ei_frostbite72.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable_hand_tenis.jpg.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable\\hand_tenis.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout_d_abdomen.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout\\d_abdomen.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_zigil.jpg.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\zigil.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-sw700dp_d_mouth.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-sw700dp\\d_mouth.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_e_headhurt.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-sw600dp\\e_headhurt.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_tabkhal.jpg.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\tabkhal.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_emergency_color1.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\emergency_color1.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_e_basicsupport.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-sw600dp\\e_basicsupport.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable_pressed_btn.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable\\pressed_btn.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-sw700dp_d_ear.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-sw700dp\\d_ear.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ei_bimari_nagahani72.png.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\ei_bimari_nagahani72.png"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-sw700dp_guidtxt.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-sw700dp\\guidtxt.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-small_d_answer.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-small\\d_answer.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-sw700dp_sample.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-sw700dp\\sample.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_chest_hurt3.jpg.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-hdpi\\chest_hurt3.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_karsinom_scoamosil.jpg.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\drawable-xhdpi\\karsinom_scoamosil.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-sw700dp_d_hand.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-sw700dp\\d_hand.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MobileClinic\\mobileClinic\\build\\intermediates\\res\\merged\\debug\\layout-sw700dp_d_eye2.xml.flat",
+        "source": "D:\\Projects\\MobileClinic\\mobileClinic\\src\\main\\res\\layout-sw700dp\\d_eye2.xml"
+    }
+]

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="right"
+    android:orientation="vertical" android:background="#f2f2f2">
+
+    <include layout="@layout/actionbar_long" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:orientation="vertical" android:padding="8dip">
+
+        <ScrollView
+            android:id="@+id/scrollView1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="right"
+                android:orientation="vertical" >
+
+                <RadioGroup
+                    android:id="@+id/radiogroup"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="right" android:paddingTop="12dip" android:paddingRight="8dip">
+
+                    <RadioButton
+                        android:id="@+id/radio0"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:checked="true"
+                        android:button="@drawable/radio_button"
+                        android:text="برگشتن لبه پلک تحتانی به سمت خارج" android:textColor="#212121" android:gravity="right" android:layout_marginBottom="4dip" android:textSize="14dip"/>
+
+                    <RadioButton
+                        android:id="@+id/radio1"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                          android:button="@drawable/radio_button"
+                        android:text="برگشتن لبه پلک به طرف داخل" android:textColor="#212121" android:gravity="right" android:layout_marginBottom="4dip" android:textSize="14dip"/>
+
+                    <RadioButton
+                        android:id="@+id/radio2"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                          android:button="@drawable/radio_button"
+                        android:text="افتادگی پلک" android:textColor="#212121" android:gravity="right" android:layout_marginBottom="4dip" android:textSize="14dip"/>
+
+                    <RadioButton
+                        android:id="@+id/radio3"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                          android:button="@drawable/radio_button"
+                        android:text="توده برجسته قرمز‌رنگ دردناک در لبه چشم"
+                        android:textColor="#212121" android:gravity="right" android:layout_marginBottom="4dip" android:textSize="14dip"/>
+
+                    <RadioButton
+                        android:id="@+id/radio4"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                          android:button="@drawable/radio_button"
+                        android:text="برجستگی سفید‌رنگ و سفت پشت پلک فوقانی"
+                        android:textColor="#212121" android:gravity="right" android:layout_marginBottom="4dip" android:textSize="14dip"/>
+
+                </RadioGroup>
+
+                <Button
+                    android:id="@+id/btnselect"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="20dip"
+                    android:text="انتخاب"
+                    style="?android:attr/borderlessButtonStyle" android:textSize="16dip" android:background="#009688" android:layout_marginLeft="8dip" android:layout_marginRight="8dip"/>
+
+            </LinearLayout>
+        </ScrollView>
+
+       </LinearLayout>
+<include layout="@layout/btndown" />
+</LinearLayout>

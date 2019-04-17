@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#fafafa"
+    android:orientation="vertical" android:gravity="right">
+
+    <include layout="@layout/actionbar_short1" />
+
+    <TextView
+        android:id="@+id/txt1"
+        android:layout_width="fill_parent"
+        android:layout_height="48dip"
+        android:layout_marginLeft="24dip"
+        android:layout_marginRight="16dip"
+        android:layout_marginTop="8dip"
+        android:gravity="right|center_vertical"
+        android:text="مشخصات:"
+        android:textColor="#000000"
+        android:textSize="15dip"
+        android:textStyle="bold" />
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="300dip" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" android:gravity="right">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="80dip"
+                android:orientation="vertical" android:gravity="bottom|right" android:paddingLeft="24dip" android:paddingRight="16dip" android:layout_marginTop="14dip">
+
+                <TextView
+                    android:id="@+id/txt2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="right"
+                    android:text="جنسیت:"
+                    android:textColor="#009688"
+                    android:textSize="11dip"
+                    android:textStyle="bold" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="bottom|right" android:layout_marginTop="8dip">
+
+                    <RadioGroup
+                        android:id="@+id/radioGroup1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="40dip"
+                        android:orientation="horizontal" android:layout_marginBottom="8dip">
+
+                        <RadioButton
+                            android:id="@+id/radio0"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:checked="true"
+                            android:text="مونث"
+                            android:textColor="#626262"
+                            android:textSize="14dip" />
+
+                        <RadioButton
+                            android:id="@+id/radio1"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="16dip"
+                            android:text="مذکر"
+                            android:textColor="#626262"
+                            android:textSize="14dip" />
+                    </RadioGroup>
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="1dip"
+                android:layout_marginRight="16dip"
+                android:background="#eaeaea"
+                android:orientation="vertical" android:paddingRight="16dip" android:layout_marginLeft="16dip">
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="80dip"
+                android:orientation="vertical" android:gravity="bottom|right" android:paddingLeft="16dip" android:paddingRight="16dip">
+
+                <TextView
+                    android:id="@+id/txt3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="16dip"
+                    android:gravity="right"
+                    android:text="سن:"
+                    android:textColor="#009688"
+                    android:textSize="12dip"
+                    android:textStyle="bold" />
+
+                <EditText
+                    android:id="@+id/edittxt1"
+                    android:layout_width="fill_parent"
+                    android:layout_height="40dip"
+                    android:layout_marginBottom="8dip"
+                    android:gravity="right"
+                    android:hint="سن"
+                    android:inputType="number"
+                    android:paddingBottom="8dip"
+                    android:textColor="#212121"
+                    android:textColorHint="#bdbdbd"
+                    android:textSize="14dp"
+                    android:textStyle="bold" >
+
+                    <requestFocus />
+                </EditText>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="1dip"
+                android:background="#eaeaea"
+                android:orientation="vertical" android:paddingRight="16dip">
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="4dip"
+                android:layout_marginLeft="16dp"
+                android:gravity="right" >
+
+                <Button
+                    android:id="@+id/btnNext"
+                    android:layout_width="wrap_content"
+                    android:layout_height="36dip"
+                    android:layout_marginLeft="8dip"
+                    android:layout_marginRight="16dp"
+                    android:layout_marginTop="8dip"
+                    android:background="@drawable/pressed_grnbtn"
+                    android:padding="8dip"
+                    android:text="رد شدن از این مرحله"
+                    android:textColor="#f00000"
+                    android:textSize="13dp"
+                    android:textStyle="bold" />
+
+                <Button
+                    android:id="@+id/btnconfirm"
+                    android:layout_width="wrap_content"
+                    android:layout_height="36dip"
+                    android:layout_marginTop="8dip"
+                    android:background="@drawable/pressed_grnbtn"
+                    android:padding="8dip"
+                    android:text="تایید"
+                    android:textColor="#009688"
+                    android:textSize="13dp"
+                    android:textStyle="bold" />
+
+                <Button
+                    android:id="@+id/btnedit"
+                    android:layout_width="wrap_content"
+                    android:layout_height="36dip"
+                    android:layout_marginLeft="8dip"
+                    android:layout_marginRight="16dp"
+                    android:layout_marginTop="8dip"
+                    android:background="@drawable/pressed_grnbtn"
+                    android:padding="8dip"
+                    android:text="تصحیح"
+                    android:textColor="#009688"
+                    android:textSize="13dp"
+                    android:textStyle="bold" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+    <TextView
+        android:id="@+id/actionbartxt1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TextView" />
+
+    <LinearLayout
+        android:id="@+id/actionbar_long"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+    </LinearLayout>
+
+        <include layout="@layout/guidtxt" />
+
+</LinearLayout>

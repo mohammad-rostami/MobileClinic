@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" android:background="#eeeeee" android:gravity="center_horizontal"
+    >
+     <include layout="@layout/actionbar_short1"/>
+    <Button
+        android:id="@+id/btnemergency"
+        android:layout_width="fill_parent"
+        android:layout_height="140dip"
+        android:gravity="right|center"
+        android:text="اورژانس"
+        android:textColor="#222222"
+        android:textSize="28dip"
+        android:textStyle="bold" android:layout_margin="16dip" android:paddingRight="24dip" android:drawableLeft="@drawable/btnemergencylarge0" android:background="@drawable/pressed_btn"/>
+
+    <Button
+        android:id="@+id/btndiagnosis"
+        android:layout_width="fill_parent"
+        android:layout_height="140dip"
+        android:background="@drawable/pressed_btn"
+        android:gravity="right|center"
+        android:text="تشخیص بیماری"
+        android:textColor="#222222"
+        android:textSize="28dip"
+        android:textStyle="bold" android:paddingRight="24dip" android:drawableLeft="@drawable/btndiagnosislarge0" android:layout_marginBottom="16dip" android:layout_marginLeft="16dip" android:layout_marginRight="16dip"/>
+
+    <Button
+        android:id="@+id/btnabout"
+        android:layout_width="fill_parent"
+        android:layout_height="140dip"
+        android:background="@drawable/pressed_btn"
+        android:drawableLeft="@drawable/btnaboutlarge0"
+        android:gravity="right|center"
+        android:paddingRight="24dip"
+        android:text="درباره ما"
+        android:textColor="#222222"
+        android:textSize="28dip"
+        android:textStyle="bold" android:layout_marginBottom="16dip" android:layout_marginLeft="16dip" android:layout_marginRight="16dip"/>
+
+</LinearLayout>

@@ -1,0 +1,56 @@
+        <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/RelativeLayout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+
+     <LinearLayout
+         android:id="@+id/actionbar_long"
+         android:layout_width="match_parent"
+         android:layout_height="160dip"
+         android:background="#f44336"
+         android:gravity="right"
+         android:orientation="vertical" >
+
+         <LinearLayout
+             android:layout_width="match_parent"
+             android:layout_height="84dip" android:gravity="right">
+
+             <TextView
+                 android:id="@+id/actionbartxt"
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:text="صفحه اصلی"
+                 android:textColor="#fff"
+                 android:textSize="26dp"
+                 android:textStyle="bold" android:layout_marginRight="36dip" android:layout_marginTop="30dip"/>
+
+             <ImageButton
+                 android:id="@+id/imgbtn"
+                 android:layout_width="24dip"
+                 android:layout_height="24dip"
+                 android:background="@drawable/menu"
+                 android:src="@drawable/menu" android:layout_marginTop="30dip" android:layout_marginRight="-12dip"/>
+
+         </LinearLayout>
+
+         <LinearLayout
+             android:layout_width="match_parent"
+             android:layout_height="78dip"
+             android:orientation="vertical" android:gravity="bottom|right">
+
+             <TextView
+                 android:id="@+id/actionbartxt1"
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:layout_marginBottom="34dip"
+                 android:layout_marginRight="36dp"
+                 android:text="صفحه اصلی"
+                 android:textColor="#fff"
+                 android:textSize="24dp"
+                 android:textStyle="bold" />
+
+         </LinearLayout>
+
+     </LinearLayout>
+    
+</RelativeLayout>

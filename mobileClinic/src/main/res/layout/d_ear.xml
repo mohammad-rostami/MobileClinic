@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical" >
+
+       <include
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           layout="@layout/actionbar_long" />
+
+       <LinearLayout
+           android:layout_width="match_parent"
+           android:layout_height="fill_parent"
+           android:orientation="vertical" android:gravity="center_horizontal" android:background="#fafafa" android:padding="8dip">
+
+           <ScrollView
+               android:id="@+id/scrollView1"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content" >
+
+               <LinearLayout
+                   android:layout_width="match_parent"
+                   android:layout_height="match_parent"
+                   android:gravity="right"
+                   android:orientation="vertical"
+                   android:paddingRight="8dip" android:paddingTop="12dip">
+
+                   <CheckBox
+                       android:id="@+id/chB1"
+                       android:layout_width="fill_parent"
+                       android:layout_height="wrap_content"
+                       android:button="@drawable/check_box"
+                       android:gravity="right|center_vertical"
+                       android:text="افزایش فشار در گوش (مثل کوهنوردان و غواصان)"
+                       android:textColor="#212121"
+                       android:textSize="14dip" />
+
+                   <CheckBox
+                       android:id="@+id/chB2"
+                       android:layout_width="fill_parent"
+                       android:layout_height="wrap_content"
+                       android:button="@drawable/check_box"
+                       android:gravity="right|center_vertical"
+                       android:text="خروج ترشحات"
+                       android:textColor="#212121"
+                       android:textSize="14dip" />
+
+                   <CheckBox
+                       android:id="@+id/chB3"
+                       android:layout_width="fill_parent"
+                       android:layout_height="wrap_content"
+                       android:button="@drawable/check_box"
+                       android:gravity="right|center_vertical"
+                       android:text="وزوز گوش"
+                       android:textColor="#212121"
+                       android:textSize="14dip" />
+
+                   <CheckBox
+                       android:id="@+id/chB4"
+                       android:layout_width="fill_parent"
+                       android:layout_height="wrap_content"
+                       android:button="@drawable/check_box"
+                       android:gravity="right|center_vertical"
+                       android:text="درد گوش"
+                       android:textColor="#212121"
+                       android:textSize="14dip" />
+
+                   <CheckBox
+                       android:id="@+id/chB5"
+                       android:layout_width="fill_parent"
+                       android:layout_height="wrap_content"
+                       android:button="@drawable/check_box"
+                       android:gravity="right|center_vertical"
+                       android:text="گیجی و منگی"
+                       android:textColor="#212121"
+                       android:textSize="14dip" />
+
+                   <CheckBox
+                       android:id="@+id/chB6"
+                       android:layout_width="fill_parent"
+                       android:layout_height="wrap_content"
+                       android:button="@drawable/check_box"
+                       android:gravity="right|center_vertical"
+                       android:text="فلج چهره"
+                       android:textColor="#212121"
+                       android:textSize="14dip" />
+
+                   <CheckBox
+                       android:id="@+id/chB7"
+                       android:layout_width="fill_parent"
+                       android:layout_height="wrap_content"
+                       android:button="@drawable/check_box"
+                       android:gravity="right|center_vertical"
+                       android:text="کاهش شنوایی"
+                       android:textColor="#212121"
+                       android:textSize="14dip" />
+
+                   <CheckBox
+                       android:id="@+id/chB8"
+                       android:layout_width="fill_parent"
+                       android:layout_height="wrap_content"
+                       android:button="@drawable/check_box"
+                       android:gravity="right|center_vertical"
+                       android:text="تب"
+                       android:textColor="#212121"
+                       android:textSize="14dip" />
+
+                   <CheckBox
+                       android:id="@+id/chB9"
+                       android:layout_width="fill_parent"
+                       android:layout_height="wrap_content"
+                       android:button="@drawable/check_box"
+                       android:gravity="right|center_vertical"
+                       android:text="سابقه بیماری گوش در خانواده"
+                       android:textColor="#212121"
+                       android:textSize="14dip" />
+
+                   <CheckBox
+                       android:id="@+id/chB10"
+                       android:layout_width="fill_parent"
+                       android:layout_height="wrap_content"
+                       android:button="@drawable/check_box"
+                       android:gravity="right|center_vertical"
+                       android:text="مالیدن گوش در نوزادان و کودکان"
+                       android:textColor="#212121"
+                       android:textSize="14dip" />
+
+                   <Button
+                       android:id="@+id/btn"
+                       style="?android:attr/borderlessButtonStyle"
+                       android:layout_width="fill_parent"
+                       android:layout_height="wrap_content"
+                       android:layout_marginLeft="8dip"
+                       android:layout_marginTop="20dip"
+                       android:background="#009688"
+                       android:button="@drawable/check_box"
+                       android:text="انتخاب"
+                       android:textSize="16dip" />
+
+               </LinearLayout>
+           </ScrollView>
+
+       </LinearLayout>
+
+</LinearLayout>

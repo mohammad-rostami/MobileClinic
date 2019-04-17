@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, menuactivity!</string>
+    <string name="app_name">کلینیک همراه</string>
+    <string name="button_text"><font size="10">First line!</font>\n\<font size="7">Second line!</font></string>
+    
+    
+</resources>

@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#eeeeee"
+    android:gravity="center_horizontal"
+    android:orientation="vertical" >
+ <include layout="@layout/actionbar_short"/>
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="2.14" android:background="#ffffff">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="right"
+            android:orientation="vertical" >
+
+            <Button
+                android:id="@+id/btnbasicsup"
+                style="?android:attr/borderlessButtonStyle"
+                android:layout_width="fill_parent"
+                android:layout_height="88dip"
+                android:background="@drawable/pressed_btn"
+                android:drawablePadding="24dip"
+                android:drawableRight="@drawable/ei_basic_sup110"
+                android:gravity="right|center"
+                android:paddingRight="24dip"
+                android:text="حمایت حیاتی پایه"
+                android:textColor="#222222"
+                android:textSize="20dip"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="#f6f6f6"
+                android:orientation="vertical" >
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/btnheadhurt"
+                style="?android:attr/borderlessButtonStyle"
+                android:layout_width="fill_parent"
+                android:layout_height="88dip"
+                android:background="@drawable/pressed_btn"
+                android:drawablePadding="24dip"
+                android:drawableRight="@drawable/ei_spinal_cord110"
+                android:gravity="right|center"
+                android:paddingRight="24dip"
+                android:text="آسیب به سر و ستون فقرات"
+                android:textColor="#222222"
+                android:textSize="20dip"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="#f6f6f6"
+                android:orientation="vertical" >
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/btnchesthurt"
+                style="?android:attr/borderlessButtonStyle"
+                android:layout_width="fill_parent"
+                android:layout_height="88dip"
+                android:background="@drawable/pressed_btn"
+                android:drawablePadding="24dip"
+                android:drawableRight="@drawable/ei_chest110"
+                android:gravity="right|center"
+                android:paddingRight="24dip"
+                android:text="آسیب به قفسه سینه، شکم و لگن"
+                android:textColor="#222222"
+                android:textSize="20dip"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="#f6f6f6"
+                android:orientation="vertical" >
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/btnAtel"
+                style="?android:attr/borderlessButtonStyle"
+                android:layout_width="fill_parent"
+                android:layout_height="88dip"
+                android:background="@drawable/pressed_btn"
+                android:drawablePadding="24dip"
+                android:drawableRight="@drawable/atel_110"
+                android:gravity="right|center"
+                android:paddingRight="24dip"
+                android:text="آتل بندی"
+                android:textColor="#222222"
+                android:textSize="20dip"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="#f6f6f6"
+                android:orientation="vertical" >
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/btnbleed"
+                style="?android:attr/borderlessButtonStyle"
+                android:layout_width="fill_parent"
+                android:layout_height="88dip"
+                android:background="@drawable/pressed_btn"
+                android:drawablePadding="24dip"
+                android:drawableRight="@drawable/ei_blood110"
+                android:gravity="right|center"
+                android:paddingRight="24dip"
+                android:text="خونریزی"
+                android:textColor="#252525"
+                android:textSize="20dip"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="#f6f6f6"
+                android:orientation="vertical" >
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/btnburn"
+                style="?android:attr/borderlessButtonStyle"
+                android:layout_width="fill_parent"
+                android:layout_height="88dip"
+                android:background="@drawable/pressed_btn"
+                android:drawablePadding="24dip"
+                android:drawableRight="@drawable/ei_burn110"
+                android:gravity="right|center"
+                android:paddingRight="24dip"
+                android:text="سوختگی"
+                android:textColor="#222222"
+                android:textSize="20dip"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="#f6f6f6"
+                android:orientation="vertical" >
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/btnpoison"
+                style="?android:attr/borderlessButtonStyle"
+                android:layout_width="fill_parent"
+                android:layout_height="88dip"
+                android:background="@drawable/pressed_btn"
+                android:drawablePadding="24dip"
+                android:drawableRight="@drawable/ei_poisoning110"
+                android:gravity="right|center"
+                android:paddingRight="24dip"
+                android:text="مسمومیت"
+                android:textColor="#222222"
+                android:textSize="20dip"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="#f6f6f6"
+                android:orientation="vertical" >
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/btnheatstroke"
+                style="?android:attr/borderlessButtonStyle"
+                android:layout_width="fill_parent"
+                android:layout_height="88dip"
+                android:background="@drawable/pressed_btn"
+                android:drawablePadding="24dip"
+                android:drawableRight="@drawable/ei_heatstroke110"
+                android:gravity="right|center"
+                android:paddingRight="24dip"
+                android:text="گرمازدگی"
+                android:textColor="#222222"
+                android:textSize="20dip"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="#f6f6f6"
+                android:orientation="vertical" >
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/btnfrostbite"
+                style="?android:attr/borderlessButtonStyle"
+                android:layout_width="fill_parent"
+                android:layout_height="88dip"
+                android:background="@drawable/pressed_btn"
+                android:drawablePadding="24dip"
+                android:drawableRight="@drawable/ei_frostbite110"
+                android:gravity="right|center"
+                android:paddingRight="24dip"
+                android:text="سرمازدگی"
+                android:textColor="#222222"
+                android:textSize="20dip"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="#f6f6f6"
+                android:orientation="vertical" >
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/btnBimari"
+                style="?android:attr/borderlessButtonStyle"
+                android:layout_width="fill_parent"
+                android:layout_height="88dip"
+                android:background="@drawable/pressed_btn"
+                android:drawablePadding="24dip"
+                android:drawableRight="@drawable/bimari_nagahani_110"
+                android:gravity="right|center"
+                android:paddingRight="24dip"
+                android:text="بیماری ناگهانی"
+                android:textColor="#222222"
+                android:textSize="20dip"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="#f6f6f6"
+                android:orientation="vertical" >
+            </LinearLayout>
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,1180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#eeeeee"
+    android:orientation="vertical" android:gravity="right">
+
+    <include layout="@layout/actionbar_long" />
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:orientation="vertical"
+            android:padding="8dip" >
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingTop="8dip" >
+
+                <LinearLayout
+                    android:id="@+id/btn_khal"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/pressed_card"
+                    android:gravity="right"
+                    android:orientation="vertical"
+                    android:paddingBottom="8dip" >
+
+                    <ImageView
+                        android:id="@+id/ImageView08"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/khal" />
+
+                    <TextView
+                        android:id="@+id/TextView15"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="8dip"
+                        android:text="خال"
+                        android:textColor="#212121"
+                        android:textSize="9dip"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/TextView16"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="8dip"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="4dip"
+                        android:gravity="top|right"
+                        android:lines="2"
+                        android:text="تغییر‌رنگ مشخص در پوست"
+                        android:textColor="#616161"
+                        android:textSize="7dip" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/btn_zaede_gooshti"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="8dip"
+                    android:layout_marginRight="8dip"
+                    android:background="@drawable/pressed_card"
+                    android:gravity="right"
+                    android:orientation="vertical"
+                    android:paddingBottom="8dip" >
+
+                    <ImageView
+                        android:id="@+id/ImageView09"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/zaede_goshti" />
+
+                    <TextView
+                        android:id="@+id/TextView20"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="8dip"
+                        android:text="زائده گوشتی"
+                        android:textColor="#212121"
+                        android:textSize="9dip"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/TextView18"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="8dip"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="4dip"
+                        android:gravity="top|right"
+                        android:lines="2"
+                        android:text="ضایعه‌های برجسته‌ و منگوله‌ایی"
+                        android:textColor="#616161"
+                        android:textSize="7dip" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/btn_zigil"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/pressed_card"
+                    android:gravity="right"
+                    android:orientation="vertical"
+                    android:paddingBottom="8dip" >
+
+                    <ImageView
+                        android:id="@+id/ImageView10"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/zigil" />
+
+                    <TextView
+                        android:id="@+id/TextView19"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="8dip"
+                        android:text="زگیل"
+                        android:textColor="#212121"
+                        android:textSize="9dip"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/TextView17"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="8dip"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="4dip"
+                        android:gravity="top|right"
+                        android:lines="2"
+                        android:text="توده‌ایی شبیه به گل‌کلم یا تاول‌سفت"
+                        android:textColor="#616161"
+                        android:textSize="7dip" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingTop="8dip" >
+
+                <LinearLayout
+                    android:id="@+id/btn_tabkhal"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/pressed_card"
+                    android:gravity="right"
+                    android:orientation="vertical"
+                    android:paddingBottom="8dip" >
+
+                    <ImageView
+                        android:id="@+id/ImageView06"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/tabkhal" />
+
+                    <TextView
+                        android:id="@+id/TextView14"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="8dip"
+                        android:text="تبخال"
+                        android:textColor="#212121"
+                        android:textSize="9dip"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/TextView12"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="8dip"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="4dip"
+                        android:gravity="top|right"
+                        android:lines="2"
+                        android:text="مجموعه تاول‌های ریز"
+                        android:textColor="#616161"
+                        android:textSize="7dip" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/btn_akne"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="8dip"
+                    android:layout_marginRight="8dip"
+                    android:background="@drawable/pressed_card"
+                    android:gravity="right"
+                    android:orientation="vertical"
+                    android:paddingBottom="8dip" >
+
+                    <ImageView
+                        android:id="@+id/ImageView02"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/akne" />
+
+                    <TextView
+                        android:id="@+id/TextView03"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="8dip"
+                        android:text="آکنه"
+                        android:textColor="#212121"
+                        android:textSize="9dip"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/TextView04"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="8dip"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="4dip"
+                        android:gravity="top|right"
+                        android:lines="2"
+                        android:text="جوش‌های سر‌سفید"
+                        android:textColor="#616161"
+                        android:textSize="7dip" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/btn_able_morghan"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/pressed_card"
+                    android:gravity="right"
+                    android:orientation="vertical"
+                    android:paddingBottom="8dip" >
+
+                    <ImageView
+                        android:id="@+id/ImageView04"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/abele_morghan1" />
+
+                    <TextView
+                        android:id="@+id/TextView05"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="8dip"
+                        android:text="آبله مرغان"
+                        android:textColor="#212121"
+                        android:textSize="9dip"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/TextView06"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="8dip"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="4dip"
+                        android:gravity="top|right"
+                        android:lines="2"
+                        android:text="جوش‌های قرمز ریز"
+                        android:textColor="#616161"
+                        android:textSize="7dip" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingTop="8dip" >
+
+                <LinearLayout
+                    android:id="@+id/btn_kachali_sar"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/pressed_card"
+                    android:gravity="right"
+                    android:orientation="vertical"
+                    android:paddingBottom="8dip" >
+
+                    <ImageView
+                        android:id="@+id/ImageView18"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/kachali_sar" />
+
+                    <TextView
+                        android:id="@+id/TextView33"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="8dip"
+                        android:text="کچلی سر"
+                        android:textColor="#212121"
+                        android:textSize="9dip"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/TextView35"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="8dip"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="4dip"
+                        android:gravity="top|right"
+                        android:lines="2"
+                        android:textColor="#616161"
+                        android:textSize="7dip" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/btn_kachali_poost"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="8dip"
+                    android:layout_marginRight="8dip"
+                    android:background="@drawable/pressed_card"
+                    android:gravity="right"
+                    android:orientation="vertical"
+                    android:paddingBottom="8dip" >
+
+                    <ImageView
+                        android:id="@+id/ImageView15"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/kachali_poost" />
+
+                    <TextView
+                        android:id="@+id/TextView30"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="8dip"
+                        android:text="کچلی پوست"
+                        android:textColor="#212121"
+                        android:textSize="9dip"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/TextView29"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="8dip"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="4dip"
+                        android:gravity="top|right"
+                        android:lines="2"
+                        android:textColor="#616161"
+                        android:textSize="7dip" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/btn_kachali_pa"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/pressed_card"
+                    android:gravity="right"
+                    android:orientation="vertical"
+                    android:paddingBottom="8dip" >
+
+                    <ImageView
+                        android:id="@+id/ImageView14"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/kachali_pa" />
+
+                    <TextView
+                        android:id="@+id/TextView27"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="8dip"
+                        android:gravity="right"
+                        android:text="کچلی پا"
+                        android:textColor="#212121"
+                        android:textSize="9dip"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/TextView25"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="8dip"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="4dip"
+                        android:gravity="top|right"
+                        android:lines="2"
+                        android:textColor="#616161"
+                        android:textSize="7dip" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingTop="8dip" >
+
+                <LinearLayout
+                    android:id="@+id/btn_sorkhak"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/pressed_card"
+                    android:gravity="right"
+                    android:orientation="vertical"
+                    android:paddingBottom="8dip" >
+
+                    <ImageView
+                        android:id="@+id/ImageView25"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/sorkhak" />
+
+                    <TextView
+                        android:id="@+id/TextView49"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="8dip"
+                        android:text="سرخک"
+                        android:textColor="#212121"
+                        android:textSize="9dip"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/TextView52"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="8dip"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="4dip"
+                        android:gravity="top|right"
+                        android:lines="2"
+                        android:textColor="#616161"
+                        android:textSize="7dip" android:text="دانه‌های پوستی و سرخی پوست"/>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/btn_sotkhche"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="8dip"
+                    android:layout_marginRight="8dip"
+                    android:background="@drawable/pressed_card"
+                    android:gravity="right"
+                    android:orientation="vertical"
+                    android:paddingBottom="8dip" >
+
+                    <ImageView
+                        android:id="@+id/ImageView27"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/sorkhche" />
+
+                    <TextView
+                        android:id="@+id/TextView51"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="8dip"
+                        android:text="سرخچه"
+                        android:textColor="#212121"
+                        android:textSize="9dip"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/TextView53"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="8dip"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="4dip"
+                        android:gravity="top|right"
+                        android:lines="2"
+                        android:textColor="#616161"
+                        android:textSize="7dip" android:text="دانه‌های صورتی رنگ ریز و برجسته "/>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/btn_ofoonat_gharchi"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/pressed_card"
+                    android:gravity="right"
+                    android:orientation="vertical"
+                    android:paddingBottom="8dip" >
+
+                    <ImageView
+                        android:id="@+id/ImageView26"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/ofoonat_gharchi" />
+
+                    <TextView
+                        android:id="@+id/TextView54"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="8dip"
+                        android:gravity="right"
+                        android:text="عفونت قارچی"
+                        android:textColor="#212121"
+                        android:textSize="9dip"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/TextView50"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="8dip"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="4dip"
+                        android:gravity="top|right"
+                        android:lines="2"
+                        android:textColor="#616161"
+                        android:textSize="7dip" android:text="کهیر حلقه مانند"/>
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingTop="8dip" >
+
+                <LinearLayout
+                    android:id="@+id/btn_aritm_multiform"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/pressed_card"
+                    android:gravity="right"
+                    android:orientation="vertical"
+                    android:paddingBottom="8dip" >
+
+                    <ImageView
+                        android:id="@+id/ImageView01"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/aritm" />
+
+                    <TextView
+                        android:id="@+id/TextView02"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="8dip"
+                        android:text="آریتم مولتی‌فرم"
+                        android:textColor="#212121"
+                        android:textSize="9dip"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/TextView01"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="8dip"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="4dip"
+                        android:gravity="top|right"
+                        android:lines="2"
+                        android:text="ضایعات حلقوی قرمز"
+                        android:textColor="#616161"
+                        android:textSize="7dip" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/btn_pesoyazis"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/pressed_card"
+                    android:gravity="right"
+                    android:orientation="vertical"
+                    android:paddingBottom="8dip"
+                    android:paddingLeft="8dip"
+                    android:paddingRight="8dip" >
+
+                    <ImageView
+                        android:id="@+id/ImageView05"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/pesoyazis" />
+
+                    <TextView
+                        android:id="@+id/TextView09"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="8dip"
+                        android:text="پسویازیس"
+                        android:textColor="#212121"
+                        android:textSize="9dip"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/TextView10"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="8dip"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="4dip"
+                        android:gravity="top|right"
+                        android:lines="2"
+                        android:text="نواحی قرمز رنگ با پوششی سفید یا نقره‌ایی"
+                        android:textColor="#616161"
+                        android:textSize="7dip" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/btn_tinea_versicaler"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/pressed_card"
+                    android:gravity="right"
+                    android:orientation="vertical"
+                    android:paddingBottom="8dip" >
+
+                    <ImageView
+                        android:id="@+id/ImageView07"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/kachali_rangarang" />
+
+                    <TextView
+                        android:id="@+id/TextView13"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="8dip"
+                        android:gravity="right"
+                        android:text="تینئا ورسیکالر"
+                        android:textColor="#212121"
+                        android:textSize="9dip"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/TextView11"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="8dip"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="4dip"
+                        android:gravity="top|right"
+                        android:lines="2"
+                        android:text="لکه‌های پوستی"
+                        android:textColor="#616161"
+                        android:textSize="7dip" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingTop="8dip" >
+
+                <LinearLayout
+                    android:id="@+id/btn_zona"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/pressed_card"
+                    android:gravity="right"
+                    android:orientation="vertical"
+                    android:paddingBottom="8dip" >
+
+                    <ImageView
+                        android:id="@+id/ImageView03"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/zona" />
+
+                    <TextView
+                        android:id="@+id/TextView24"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="8dip"
+                        android:text="زونا"
+                        android:textColor="#212121"
+                        android:textSize="9dip"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/TextView22"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="8dip"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="4dip"
+                        android:gravity="top|right"
+                        android:lines="2"
+                        android:text="تاول‌های کوچک در ناحیه عصب محیطی"
+                        android:textColor="#616161"
+                        android:textSize="7dip" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/btn_kandidiazis"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="8dip"
+                    android:layout_marginRight="8dip"
+                    android:background="@drawable/pressed_card"
+                    android:gravity="right"
+                    android:orientation="vertical"
+                    android:paddingBottom="8dip" >
+
+                    <ImageView
+                        android:id="@+id/ImageView11"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/kandidiazis" />
+
+                    <TextView
+                        android:id="@+id/TextView07"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="8dip"
+                        android:text="کاندیدیازیس"
+                        android:textColor="#212121"
+                        android:textSize="9dip"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/TextView08"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="8dip"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="4dip"
+                        android:gravity="top|right"
+                        android:lines="2"
+                        android:text="برفک در دهان"
+                        android:textColor="#616161"
+                        android:textSize="7dip" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/btn_karsinom_bazal"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/pressed_card"
+                    android:gravity="right"
+                    android:orientation="vertical"
+                    android:paddingBottom="8dip" >
+
+                    <ImageView
+                        android:id="@+id/ImageView12"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/karsinom_bazal" />
+
+                    <TextView
+                        android:id="@+id/TextView21"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="8dip"
+                        android:gravity="right"
+                        android:text="کاریسنوم‌بازال"
+                        android:textColor="#212121"
+                        android:textSize="9dip"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/TextView23"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="8dip"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="4dip"
+                        android:gravity="top|right"
+                        android:lines="2"
+                        android:text="زخم با حاشیه برجسته و براق"
+                        android:textColor="#616161"
+                        android:textSize="7dip" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingTop="8dip" >
+
+                <LinearLayout
+                    android:id="@+id/btn_karisnom_eskoamasel"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/pressed_card"
+                    android:gravity="right"
+                    android:orientation="vertical"
+                    android:paddingBottom="8dip" >
+
+                    <ImageView
+                        android:id="@+id/ImageView13"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/karsinom_scoamosil" />
+
+                    <TextView
+                        android:id="@+id/TextView26"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="8dip"
+                        android:text="کاریسنوم اسکواماسل"
+                        android:textColor="#212121"
+                        android:textSize="9dip"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/TextView28"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="8dip"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="4dip"
+                        android:gravity="top|right"
+                        android:lines="2"
+                        android:text="ضایعه زیرپوستی دلمه‌ایی در پا و دست و صورت"
+                        android:textColor="#616161"
+                        android:textSize="7dip" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/btn_kahir"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="8dip"
+                    android:layout_marginRight="8dip"
+                    android:background="@drawable/pressed_card"
+                    android:gravity="right"
+                    android:orientation="vertical"
+                    android:paddingBottom="8dip" >
+
+                    <ImageView
+                        android:id="@+id/ImageView17"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/kahir" />
+
+                    <TextView
+                        android:id="@+id/TextView32"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="8dip"
+                        android:text="کهیر"
+                        android:textColor="#212121"
+                        android:textSize="9dip"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/TextView34"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="8dip"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="4dip"
+                        android:gravity="top|right"
+                        android:lines="2"
+                        android:text="آماس و ورم شبیه آماس گزنه"
+                        android:textColor="#616161"
+                        android:textSize="7dip" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/btn_gal"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/pressed_card"
+                    android:gravity="right"
+                    android:orientation="vertical"
+                    android:paddingBottom="8dip" >
+
+                    <ImageView
+                        android:id="@+id/ImageView16"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/gal" />
+
+                    <TextView
+                        android:id="@+id/TextView36"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="8dip"
+                        android:gravity="right"
+                        android:text="گال"
+                        android:textColor="#212121"
+                        android:textSize="9dip"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/TextView31"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="8dip"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="4dip"
+                        android:gravity="top|right"
+                        android:lines="2"
+                        android:text="جوش‌های ریز قرمزرنگ"
+                        android:textColor="#616161"
+                        android:textSize="7dip" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingTop="8dip" >
+
+                <LinearLayout
+                    android:id="@+id/btn_melaskom"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/pressed_card"
+                    android:gravity="right"
+                    android:orientation="vertical"
+                    android:paddingBottom="8dip" >
+
+                    <ImageView
+                        android:id="@+id/ImageView22"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/moloskom" />
+
+                    <TextView
+                        android:id="@+id/TextView47"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="8dip"
+                        android:text="ملاسکوم"
+                        android:textColor="#212121"
+                        android:textSize="9dip"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/TextView44"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="8dip"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="4dip"
+                        android:gravity="top|right"
+                        android:lines="2"
+                        android:text="ضایعه برجسته صورتی رنگ میلیمتری"
+                        android:textColor="#616161"
+                        android:textSize="7dip" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/btn_vitiligo"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="8dip"
+                    android:layout_marginRight="8dip"
+                    android:background="@drawable/pressed_card"
+                    android:gravity="right"
+                    android:orientation="vertical"
+                    android:paddingBottom="8dip" >
+
+                    <ImageView
+                        android:id="@+id/ImageView24"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/vitiligo" />
+
+                    <TextView
+                        android:id="@+id/TextView45"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="8dip"
+                        android:text="ویتیلیگو"
+                        android:textColor="#212121"
+                        android:textSize="9dip"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/TextView43"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="8dip"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="4dip"
+                        android:gravity="top|right"
+                        android:lines="2"
+                        android:text="لکه‌های سفید روی پوست"
+                        android:textColor="#616161"
+                        android:textSize="7dip" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/btn_panjom"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/pressed_card"
+                    android:gravity="right"
+                    android:orientation="vertical"
+                    android:paddingBottom="8dip" >
+
+                    <ImageView
+                        android:id="@+id/ImageView23"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/panjom" />
+
+                    <TextView
+                        android:id="@+id/TextView48"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="8dip"
+                        android:gravity="right"
+                        android:text="بیماری پنجم"
+                        android:textColor="#212121"
+                        android:textSize="9dip"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/TextView46"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="8dip"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="4dip"
+                        android:gravity="top|right"
+                        android:lines="2"
+                        android:text="سرخی روشن گونه ها لکه‌های روی بدن"
+                        android:textColor="#616161"
+                        android:textSize="7dip" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingTop="8dip" >
+
+                <LinearLayout
+                    android:id="@+id/btn_liken_plan"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/pressed_card"
+                    android:gravity="right"
+                    android:orientation="vertical"
+                    android:paddingBottom="8dip" >
+
+                    <ImageView
+                        android:id="@+id/ImageView19"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/likn_plan" />
+
+                    <TextView
+                        android:id="@+id/TextView38"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="8dip"
+                        android:text="لیکن پلان"
+                        android:textColor="#212121"
+                        android:textSize="9dip"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/TextView42"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="8dip"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="4dip"
+                        android:gravity="top|right"
+                        android:lines="2"
+                        android:text="ضایعات برجسته خارش‌دار بنفش رنگ"
+                        android:textColor="#616161"
+                        android:textSize="7dip" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/btn_melanoma"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="8dip"
+                    android:layout_marginRight="8dip"
+                    android:background="@drawable/pressed_card"
+                    android:gravity="right"
+                    android:orientation="vertical"
+                    android:paddingBottom="8dip" >
+
+                    <ImageView
+                        android:id="@+id/ImageView21"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/melanoma" />
+
+                    <TextView
+                        android:id="@+id/TextView37"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="8dip"
+                        android:text="ملانوما"
+                        android:textColor="#212121"
+                        android:textSize="9dip"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/TextView41"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="8dip"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="4dip"
+                        android:gravity="top|right"
+                        android:lines="2"
+                        android:text="ضایعه‌ایی به شکل خال با حاشیه نامنظم"
+                        android:textColor="#616161"
+                        android:textSize="7dip" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/btn_melasma"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/pressed_card"
+                    android:gravity="right"
+                    android:orientation="vertical"
+                    android:paddingBottom="8dip" >
+
+                    <ImageView
+                        android:id="@+id/ImageView20"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/melasma" />
+
+                    <TextView
+                        android:id="@+id/TextView40"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="8dip"
+                        android:gravity="right"
+                        android:text="ملاسما"
+                        android:textColor="#212121"
+                        android:textSize="9dip"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/TextView39"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="8dip"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="4dip"
+                        android:gravity="top|right"
+                        android:lines="2"
+                        android:text="لکه‌های قهوه‌ایی بر روی  صورت"
+                        android:textColor="#616161"
+                        android:textSize="7dip" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+
+    </ScrollView>
+
+    <include layout="@layout/guidtxt" />
+
+</LinearLayout>

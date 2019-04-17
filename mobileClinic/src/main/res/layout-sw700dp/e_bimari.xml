@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#eeeeee"
+    android:gravity="center_horizontal"
+    android:orientation="vertical" >
+ <include layout="@layout/actionbar_long"/>
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="2.14" android:background="#ffffff">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <Button
+                android:id="@+id/tansfos"
+                style="?android:attr/borderlessButtonStyle"
+                android:layout_width="fill_parent"
+                android:layout_height="92dip"
+                android:background="@drawable/pressed_btn"
+                android:drawablePadding="16dip"
+                android:drawableRight="@drawable/bimari_nagahani_110"
+                android:gravity="right|center"
+                android:paddingLeft="10dip"
+                android:paddingRight="16dip"
+                android:text="افزایش تعداد تنفس"
+                android:textColor="#222222"
+                android:textSize="24dip"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="#f6f6f6"
+                android:orientation="vertical" >
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/diabet"
+                style="?android:attr/borderlessButtonStyle"
+                android:layout_width="fill_parent"
+                android:layout_height="92dip"
+                android:background="@drawable/pressed_btn"
+                android:drawablePadding="16dip"
+                android:drawableRight="@drawable/bimari_nagahani_110"
+                android:gravity="right|center"
+                android:paddingLeft="10dip"
+                android:paddingRight="16dip"
+                android:text="اورژانس دیابتی ها"
+                android:textColor="#222222"
+                android:textSize="24dip"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="#f6f6f6"
+                android:orientation="vertical" >
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/tashanoj"
+                style="?android:attr/borderlessButtonStyle"
+                android:layout_width="fill_parent"
+                android:layout_height="92dip"
+                android:background="@drawable/pressed_btn"
+                android:drawablePadding="16dip"
+                android:drawableRight="@drawable/bimari_nagahani_110"
+                android:gravity="right|center"
+                android:paddingLeft="10dip"
+                android:paddingRight="16dip"
+                android:text="تشنج"
+                android:textColor="#222222"
+                android:textSize="24dip"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="#f6f6f6"
+                android:orientation="vertical" >
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/hamleGhalbi"
+                style="?android:attr/borderlessButtonStyle"
+                android:layout_width="fill_parent"
+                android:layout_height="92dip"
+                android:background="@drawable/pressed_btn"
+                android:drawablePadding="16dip"
+                android:drawableRight="@drawable/bimari_nagahani_110"
+                android:gravity="right|center"
+                android:paddingLeft="10dip"
+                android:paddingRight="16dip"
+                android:text="حمله قلبی"
+                android:textColor="#222222"
+                android:textSize="24dip"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="#f6f6f6"
+                android:orientation="vertical" >
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/ghash"
+                style="?android:attr/borderlessButtonStyle"
+                android:layout_width="fill_parent"
+                android:layout_height="92dip"
+                android:background="@drawable/pressed_btn"
+                android:drawablePadding="16dip"
+                android:drawableRight="@drawable/bimari_nagahani_110"
+                android:gravity="right|center"
+                android:paddingLeft="10dip"
+                android:paddingRight="16dip"
+                android:text="غش کردن"
+                android:textColor="#222222"
+                android:textSize="24dip"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="#f6f6f6"
+                android:orientation="vertical" >
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/doranHamelegi"
+                style="?android:attr/borderlessButtonStyle"
+                android:layout_width="fill_parent"
+                android:layout_height="92dip"
+                android:background="@drawable/pressed_btn"
+                android:drawablePadding="16dip"
+                android:drawableRight="@drawable/bimari_nagahani_110"
+                android:gravity="right|center"
+                android:paddingLeft="10dip"
+                android:paddingRight="16dip"
+                android:text="فوریت های دوران حاملگی"
+                android:textColor="#222222"
+                android:textSize="24dip"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="#f6f6f6"
+                android:orientation="vertical" >
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/ghandBala"
+                style="?android:attr/borderlessButtonStyle"
+                android:layout_width="fill_parent"
+                android:layout_height="92dip"
+                android:background="@drawable/pressed_btn"
+                android:drawablePadding="16dip"
+                android:drawableRight="@drawable/bimari_nagahani_110"
+                android:gravity="right|center"
+                android:paddingLeft="10dip"
+                android:paddingRight="16dip"
+                android:text="قند خون بالا"
+                android:textColor="#222222"
+                android:textSize="24dip"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="#f6f6f6"
+                android:orientation="vertical" >
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/ghandPaeen"
+                style="?android:attr/borderlessButtonStyle"
+                android:layout_width="fill_parent"
+                android:layout_height="92dip"
+                android:background="@drawable/pressed_btn"
+                android:drawablePadding="16dip"
+                android:drawableRight="@drawable/bimari_nagahani_110"
+                android:gravity="right|center"
+                android:paddingLeft="10dip"
+                android:paddingRight="16dip"
+                android:text="قند خون پایین"
+                android:textColor="#222222"
+                android:textSize="24dip"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="#f6f6f6"
+                android:orientation="vertical" >
+            </LinearLayout>
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

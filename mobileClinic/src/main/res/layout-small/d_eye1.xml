@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#f2f2f2"
+    android:orientation="vertical" android:gravity="right">
+
+    <include layout="@layout/actionbar_long" />
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:orientation="vertical"
+            android:padding="8dip" >
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" android:layout_marginTop="16dip">
+
+                <LinearLayout
+                    android:id="@+id/list_nakhonak"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="4dip"
+                    android:background="@drawable/pressed_card"
+                    android:gravity="right"
+                    android:orientation="vertical"
+                    android:paddingBottom="8dip" >
+
+                    <ImageView
+                        android:id="@+id/ImageView06"
+                        android:layout_width="70dip"
+                        android:layout_height="70dip"
+                        android:src="@drawable/nakhonak" />
+
+                    <TextView
+                        android:id="@+id/txt5"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="3dip"
+                        android:text="ناخنک"
+                        android:textColor="#212121"
+                        android:textSize="8dip"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/txt6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="8dip"
+                        android:layout_marginRight="4dip"
+                        android:layout_marginTop="4dip"
+                        android:gravity="top|right"
+                        android:lines="2"
+                        android:text="برجستگی داخل چشم"
+                        android:textColor="#616161"
+                        android:textSize="5dip" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/list_magas"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/pressed_card"
+                    android:gravity="right"
+                    android:orientation="vertical"
+                    android:paddingBottom="8dip" >
+
+                    <ImageView
+                        android:id="@+id/ImageView08"
+                        android:layout_width="70dip"
+                        android:layout_height="70dip" android:src="@drawable/magas_paran"/>
+
+                    <TextView
+                        android:id="@+id/txt3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="3dip"
+                        android:text="مگس‌پران"
+                        android:textColor="#212121"
+                        android:textSize="8dip"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/txt4"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="8dip"
+                        android:layout_marginRight="4dip"
+                        android:layout_marginTop="4dip"
+                        android:gravity="top|right"
+                        android:lines="2"
+                        android:text="نورهای رنگی یا سفید در دید"
+                        android:textColor="#616161"
+                        android:textSize="5dip" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/list_dodoak"
+                    android:layout_width="70dip"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="4dip"
+                    android:background="@drawable/pressed_card"
+                    android:gravity="right"
+                    android:orientation="vertical"
+                    android:paddingBottom="8dip" >
+
+                    <ImageView
+                        android:id="@+id/ImageView10"
+                        android:layout_width="70dip"
+                        android:layout_height="70dip"
+                        android:src="@drawable/dodoak" />
+
+                    <TextView
+                        android:id="@+id/txt1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="3dip"
+                        android:text="دودوئک"
+                        android:textColor="#212121"
+                        android:textSize="8dip"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/txt2"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="8dip"
+                        android:layout_marginRight="4dip"
+                        android:layout_marginTop="4dip"
+                        android:gravity="top|right"
+                        android:lines="2"
+                        android:text="جابجایی مداوم مردمک"
+                        android:textColor="#616161"
+                        android:textSize="5dip" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/list_golmoje"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="4dip"
+                    android:background="@drawable/pressed_card"
+                    android:gravity="right"
+                    android:orientation="vertical"
+                    android:paddingBottom="8dip" >
+
+                    <ImageView
+                        android:id="@+id/ImageView04"
+                        android:layout_width="70dip"
+                        android:layout_height="70dip"
+                        android:src="@drawable/gol_mozhe" />
+
+                    <TextView
+                        android:id="@+id/txt7"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="3dip"
+                        android:text="گل‌مژه"
+                        android:textColor="#212121"
+                        android:textSize="8dip"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/txt8"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="8dip"
+                        android:layout_marginRight="4dip"
+                        android:layout_marginTop="4dip"
+                        android:gravity="top|right"
+                        android:lines="2"
+                        android:text="برآمدگی روی پلک"
+                        android:textColor="#616161"
+                        android:textSize="5dip" />
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingTop="8dip" >
+            </LinearLayout>
+
+        </LinearLayout>
+    </ScrollView>
+
+    <include layout="@layout/btndown" />
+
+</LinearLayout>

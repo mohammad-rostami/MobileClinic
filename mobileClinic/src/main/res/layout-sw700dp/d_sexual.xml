@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="left|center_horizontal"
+    android:orientation="vertical" >
+
+    <include layout="@layout/actionbar_long" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:background="#fafafa"
+        android:orientation="vertical"
+        android:padding="24dip" >
+
+        <ScrollView
+            android:id="@+id/scrollView1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="right"
+                android:orientation="vertical" >
+
+              <LinearLayout
+                  android:id="@+id/man"
+                  android:layout_width="fill_parent"
+                  android:layout_height="match_parent"
+                  android:gravity="right"
+                  android:orientation="vertical" >
+
+                  <RadioGroup
+                      android:id="@+id/radiogroup"
+                      android:layout_width="fill_parent"
+                      android:layout_height="wrap_content"
+                      android:gravity="top|right"
+                      android:paddingRight="8dip" android:checkedButton="@+id/radio0">
+
+                      <RadioButton
+                          android:id="@+id/radio0"
+                          android:layout_width="fill_parent"
+                          android:layout_height="50dip"
+                          android:button="@drawable/radio_button"
+                          android:checked="true"
+                          android:gravity="right|center_vertical"
+                          android:text="تاول‌ دردناک و زخم‌ باز در ناحیه تناسلی"
+                          android:textColor="#212121"
+                          android:textSize="22dip" android:layout_marginBottom="8dip"/>
+
+                      <RadioButton
+                          android:id="@+id/radio1"
+                          android:layout_width="fill_parent"
+                          android:layout_height="50dip"
+                          android:button="@drawable/radio_button"
+                          android:gravity="right|center_vertical"
+                          android:text="زخم سرد یا جوش بر روی لب، داخل گوش و گلو"
+                          android:textColor="#212121"
+                          android:textSize="22dip" android:layout_marginBottom="8dip" android:checked="false"/>
+
+                      <RadioButton
+                          android:id="@+id/radio2"
+                          android:layout_width="fill_parent"
+                          android:layout_height="50dip"
+                          android:button="@drawable/radio_button"
+                          android:gravity="right|center_vertical"
+                          android:text="زگیل کوچک،سفت و بدون درد در اطراف ناحیه تناسلی"
+                          android:textColor="#212121"
+                          android:textSize="22dip" android:layout_marginBottom="8dip" android:checked="false"/>
+
+                      <RadioButton
+                          android:id="@+id/radio3"
+                          android:layout_width="fill_parent"
+                          android:layout_height="50dip"
+                          android:button="@drawable/radio_button"
+                          android:gravity="right|center_vertical"
+                          android:text="خروج چرک از آلت مردانه"
+                          android:textColor="#212121"
+                          android:textSize="22dip" android:layout_marginBottom="8dip" android:checked="false"/>
+
+                      <RadioButton
+                          android:id="@+id/radio5"
+                          android:layout_width="fill_parent"
+                          android:layout_height="50dip"
+                          android:button="@drawable/radio_button"
+                          android:checked="false"
+                          android:gravity="right|center_vertical"
+                          android:text="ادرار دردناک و سخت"
+                          android:textColor="#212121"
+                          android:textSize="22dip" android:layout_marginBottom="8dip"/>
+
+                      <RadioButton
+                          android:id="@+id/radio6"
+                          android:layout_width="fill_parent"
+                          android:layout_height="50dip"
+                          android:button="@drawable/radio_button"
+                          android:gravity="right|center_vertical"
+                          android:text="زگیل های بزرگ و گل کلمی"
+                          android:textColor="#212121"
+                          android:textSize="22dip" android:layout_marginBottom="8dip" android:checked="false"/>
+
+                      <RadioButton
+                          android:id="@+id/radio7"
+                          android:layout_width="fill_parent"
+                          android:layout_height="50dip"
+                          android:button="@drawable/radio_button"
+                          android:checked="false"
+                          android:gravity="right|center_vertical"
+                          android:text="احساس گزگز در ناحیه تناسلی، پاها یا باسن"
+                          android:textColor="#212121"
+                          android:textSize="22dip" android:layout_marginBottom="8dip"/>
+
+                      <RadioButton
+                          android:id="@+id/radio4"
+                          android:layout_width="fill_parent"
+                          android:layout_height="50dip"
+                          android:button="@drawable/radio_button"
+                          android:gravity="right|center_vertical"
+                          android:text="زخم باز و بدون درد بر روی آلت مردانه، اطراف دهان، اطراف مقعد یا روی دست"
+                          android:textColor="#212121"
+                          android:textSize="22dip" android:layout_marginBottom="8dip" android:checked="false"/>
+
+                      <RadioButton
+                          android:id="@+id/radio8"
+                          android:layout_width="fill_parent"
+                          android:layout_height="50dip"
+                          android:button="@drawable/radio_button"
+                          android:gravity="right|center_vertical"
+                          android:text="زخم باز و بدون درد بر روی آلت مردانه، اطراف دهان، اطراف مقعد یا روی دست"
+                          android:textColor="#212121"
+                          android:textSize="22dip" android:layout_marginBottom="8dip" android:checked="false"/>
+
+                  </RadioGroup>
+
+              </LinearLayout>
+
+              <LinearLayout
+                  android:id="@+id/woman"
+                  android:layout_width="fill_parent"
+                  android:layout_height="match_parent"
+                  android:gravity="right"
+                  android:orientation="vertical" >
+
+                  <RadioGroup
+                      android:id="@+id/radiogroupw"
+                      android:layout_width="fill_parent"
+                      android:layout_height="wrap_content"
+                      android:gravity="top|right"
+                      android:paddingRight="8dip" android:checkedButton="@+id/radio0w">
+
+                      <RadioButton
+                          android:id="@+id/radio0w"
+                          android:layout_width="fill_parent"
+                          android:layout_height="50dip"
+                          android:button="@drawable/radio_button"
+                          android:gravity="right|center_vertical"
+                          android:text="تاول‌ دردناک و زخم‌ باز در ناحیه تناسلی"
+                          android:textColor="#212121"
+                          android:textSize="22dip" android:layout_marginBottom="8dip" android:checked="true"/>
+
+                      <RadioButton
+                          android:id="@+id/radio1w"
+                          android:layout_width="fill_parent"
+                          android:layout_height="50dip"
+                          android:button="@drawable/radio_button"
+                          android:gravity="right|center_vertical"
+                          android:text="زخم سرد یا جوش بر روی لب، داخل گوش و گلو"
+                          android:textColor="#212121"
+                          android:textSize="22dip" android:layout_marginBottom="8dip" android:checked="false"/>
+
+                      <RadioButton
+                          android:id="@+id/radio2w"
+                          android:layout_width="fill_parent"
+                          android:layout_height="50dip"
+                          android:button="@drawable/radio_button"
+                          android:gravity="right|center_vertical"
+                          android:text="زگیل کوچک،سفت و بدون درد در اطراف ناحیه تناسلی"
+                          android:textColor="#212121"
+                          android:textSize="22dip" android:layout_marginBottom="8dip" android:checked="false"/>
+
+                      <RadioButton
+                          android:id="@+id/radio3w"
+                          android:layout_width="fill_parent"
+                          android:layout_height="50dip"
+                          android:button="@drawable/radio_button"
+                          android:gravity="right|center_vertical"
+                          android:text="خروج چرک از واژن"
+                          android:textColor="#212121"
+                          android:textSize="22dip" android:layout_marginBottom="8dip" android:checked="false"/>
+
+                      <RadioButton
+                          android:id="@+id/radio5w"
+                          android:layout_width="fill_parent"
+                          android:layout_height="50dip"
+                          android:button="@drawable/radio_button"
+                          android:checked="false"
+                          android:gravity="right|center_vertical"
+                          android:text="ادرار دردناک و سخت"
+                          android:textColor="#212121"
+                          android:textSize="22dip" android:layout_marginBottom="8dip"/>
+
+                      <RadioButton
+                          android:id="@+id/radio6w"
+                          android:layout_width="fill_parent"
+                          android:layout_height="50dip"
+                          android:button="@drawable/radio_button"
+                          android:gravity="right|center_vertical"
+                          android:text="زگیل های بزرگ و گل کلمی"
+                          android:textColor="#212121"
+                          android:textSize="22dip" android:layout_marginBottom="8dip" android:checked="false"/>
+
+                      <RadioButton
+                          android:id="@+id/radio8w"
+                          android:layout_width="fill_parent"
+                          android:layout_height="50dip"
+                          android:layout_marginBottom="8dip"
+                          android:button="@drawable/radio_button"
+                          android:checked="false"
+                          android:gravity="right|center_vertical"
+                          android:text="احساس گزگز در ناحیه تناسلی، پاها یا باسن"
+                          android:textColor="#212121"
+                          android:textSize="22dip" />
+
+                      <RadioButton
+                          android:id="@+id/radio4w"
+                          android:layout_width="fill_parent"
+                          android:layout_height="50dip"
+                          android:button="@drawable/radio_button"
+                          android:gravity="right|center_vertical"
+                          android:text="زخم باز و بدون درد در داخل واژن، اطراف دهان، اطراف مقعد یا روی دست"
+                          android:textColor="#212121"
+                          android:textSize="22dip" android:layout_marginBottom="8dip" android:checked="false"/>
+
+                      <RadioButton
+                          android:id="@+id/radio7w"
+                          android:layout_width="fill_parent"
+                          android:layout_height="50dip"
+                          android:layout_marginBottom="8dip"
+                          android:button="@drawable/radio_button"
+                          android:checked="false"
+                          android:gravity="right|center_vertical"
+                          android:text="قاعدگی دردناک، پریود طولانی یا خونریزی شدید"
+                          android:textColor="#212121"
+                          android:textSize="22dip" />
+
+                  </RadioGroup>
+              </LinearLayout>
+
+              <Button
+                  android:id="@+id/btngo"
+                  style="?android:attr/borderlessButtonStyle"
+                  android:layout_width="fill_parent"
+                  android:layout_height="wrap_content"
+                  android:layout_marginTop="24dip"
+                  android:background="#009688"
+                  android:padding="8dip"
+                  android:text="انتخاب"
+                  android:textColor="#ffffff"
+                  android:textSize="24dp"
+                  android:textStyle="bold" android:layout_marginRight="8dip" android:layout_marginLeft="8dip" android:gravity="center_vertical|center_horizontal"/>
+
+            </LinearLayout>
+        </ScrollView>
+
+       </LinearLayout>
+
+</LinearLayout>

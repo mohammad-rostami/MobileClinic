@@ -1,0 +1,30 @@
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent" android:gravity="bottom">
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" android:gravity="bottom">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="40dip"
+                android:orientation="vertical" android:background="#fafafa" android:gravity="right|center">
+
+              <Button
+                  android:id="@+id/btncontinue"
+                  android:layout_width="wrap_content"
+                  android:layout_height="40dip"
+                  android:layout_marginRight="16dip"
+                  android:background="#fafafa"
+                  android:padding="8dip"
+                  android:text="صفحه بعد"
+                  android:textSize="14dip"
+                  android:textStyle="bold" style="?android:attr/borderlessButtonStyle" android:textColor="#f00000"/>
+
+            </LinearLayout>
+
+        </LinearLayout>
+    </LinearLayout>

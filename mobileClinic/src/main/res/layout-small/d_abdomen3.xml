@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="left|center_horizontal"
+    android:orientation="vertical" android:background="#ffffff">
+       <include layout="@layout/actionbar_long" />
+
+       <ScrollView
+           android:id="@+id/scrollView1"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content" >
+
+           <LinearLayout
+               android:layout_width="match_parent"
+               android:layout_height="fill_parent"
+               android:background="#ffffff"
+               android:gravity="right"
+               android:orientation="vertical" >
+
+               <LinearLayout
+                   android:id="@+id/man"
+                   android:layout_width="match_parent"
+                   android:layout_height="wrap_content"
+                   android:orientation="vertical" >
+
+                   <LinearLayout
+                       android:layout_width="match_parent"
+                       android:layout_height="wrap_content"
+                       android:orientation="vertical" >
+
+                       <LinearLayout
+                           android:layout_width="match_parent"
+                           android:layout_height="wrap_content"
+                           android:background="#ffffff"
+                           android:gravity="right|center_horizontal" >
+
+                           <Button
+                               android:id="@+id/btnopen"
+                               style="?android:attr/borderlessButtonStyle"
+                               android:layout_width="1dip"
+                               android:layout_height="50dip"
+                               android:layout_weight="0.15"
+                               android:drawableLeft="@drawable/expand_dark" />
+
+                           <Button
+                               android:id="@+id/btn1"
+                               style="?android:attr/borderlessButtonStyle"
+                               android:layout_width="1dip"
+                               android:layout_height="50dip"
+                               android:layout_weight="0.9"
+                               android:gravity="right"
+                               android:paddingRight="16dip"
+                               android:text="درد قسمت فوقانی شکم"
+                               android:textColor="#222222"
+                               android:textSize="14dip" />
+                       </LinearLayout>
+
+                       <LinearLayout
+                           android:id="@+id/list"
+                           android:layout_width="match_parent"
+                           android:layout_height="wrap_content"
+                           android:background="#ffffff"
+                           android:gravity="right"
+                           android:orientation="vertical" >
+
+                           <LinearLayout
+                               android:layout_width="match_parent"
+                               android:layout_height="1dp"
+                               android:background="#f6f6f6"
+                               android:orientation="vertical" >
+                           </LinearLayout>
+
+                           <TextView
+                               android:id="@+id/TextView03"
+                               android:layout_width="fill_parent"
+                               android:layout_height="wrap_content"
+                               android:gravity="right"
+                               android:padding="8dip"
+                               android:textColor="#808080"
+                               android:textSize="12dip" android:text="درد در قسمت فوقانی شکم دقیقا زیر استخوان جناغ سینه ، اکثر اوقات پس از زمان معمول صرف وعده غذایی یا در صورت گرسنه بودن متحمل درد می شود و حتی به دلیل درد از خواب شبانه بیدار می شود ، درد گاهی \س از غذا خوردن یا مصرف قرص های ضد اسید بهبود می یابد."/>
+                       </LinearLayout>
+                   </LinearLayout>
+
+                   <LinearLayout
+                       android:layout_width="match_parent"
+                       android:layout_height="1dp"
+                       android:background="#f6f6f6"
+                       android:orientation="vertical" >
+                   </LinearLayout>
+
+                   <LinearLayout
+                       android:layout_width="match_parent"
+                       android:layout_height="wrap_content"
+                       android:orientation="vertical" >
+
+                       <LinearLayout
+                           android:layout_width="match_parent"
+                           android:layout_height="wrap_content"
+                           android:background="#ffffff"
+                           android:gravity="right|center_horizontal" >
+
+                           <Button
+                               android:id="@+id/btnopen1"
+                               style="?android:attr/borderlessButtonStyle"
+                               android:layout_width="1dip"
+                               android:layout_height="50dip"
+                               android:layout_weight="0.15"
+                               android:drawableLeft="@drawable/expand_dark" />
+
+                           <Button
+                               android:id="@+id/btn2"
+                               style="?android:attr/borderlessButtonStyle"
+                               android:layout_width="1dip"
+                               android:layout_height="50dip"
+                               android:layout_weight="0.9"
+                               android:gravity="right"
+                               android:paddingRight="16dip"
+                               android:text="درد نزدیک ناف و سمت راست شکم"
+                               android:textColor="#222222"
+                               android:textSize="14dip" />
+                       </LinearLayout>
+
+                       <LinearLayout
+                           android:id="@+id/list4"
+                           android:layout_width="match_parent"
+                           android:layout_height="wrap_content"
+                           android:background="#ffffff"
+                           android:gravity="right"
+                           android:orientation="vertical" >
+
+                           <LinearLayout
+                               android:layout_width="match_parent"
+                               android:layout_height="1dp"
+                               android:background="#f6f6f6"
+                               android:orientation="vertical" >
+                           </LinearLayout>
+
+                           <TextView
+                               android:id="@+id/TextView04"
+                               android:layout_width="fill_parent"
+                               android:layout_height="wrap_content"
+                               android:gravity="right"
+                               android:padding="8dip"
+                               android:text="دردی که از نزدیک ناف شوروع می شود و تدریجا به قسمت تحتانی شکم در سمت راست نقل مکان می کند ، درد کم کم مداوم می شود و از حالت مبهم به صورت کاملا مشخص در می آید به طوری که مکان آن دقیق تر توسط بیمار نشان داده می شود. درد با حرکت ، تنفس عمیق ، سرفه ، عطسه ، راه رفتن، یا لمس بدتر می شود ، همراه با حالت تهوع و تب."
+                               android:textColor="#808080"
+                               android:textSize="12dip" />
+                       </LinearLayout>
+                   </LinearLayout>
+
+                   <LinearLayout
+                       android:layout_width="match_parent"
+                       android:layout_height="1dp"
+                       android:background="#f6f6f6"
+                       android:orientation="vertical" >
+                   </LinearLayout>
+
+                   <LinearLayout
+                       android:layout_width="match_parent"
+                       android:layout_height="wrap_content"
+                       android:orientation="vertical" >
+
+                       <LinearLayout
+                           android:layout_width="match_parent"
+                           android:layout_height="wrap_content"
+                           android:background="#ffffff"
+                           android:gravity="right|center_horizontal" >
+
+                           <Button
+                               android:id="@+id/btnopen2"
+                               style="?android:attr/borderlessButtonStyle"
+                               android:layout_width="1dip"
+                               android:layout_height="50dip"
+                               android:layout_weight="0.15"
+                               android:drawableLeft="@drawable/expand_dark" />
+
+                           <Button
+                               android:id="@+id/btn3"
+                               style="?android:attr/borderlessButtonStyle"
+                               android:layout_width="1dip"
+                               android:layout_height="50dip"
+                               android:layout_weight="0.9"
+                               android:gravity="right"
+                               android:paddingRight="16dip"
+                               android:text="درد شانه راست و قسمت فوقانی شکم"
+                               android:textColor="#222222"
+                               android:textSize="14dip" />
+                       </LinearLayout>
+
+                       <LinearLayout
+                           android:id="@+id/list2"
+                           android:layout_width="match_parent"
+                           android:layout_height="wrap_content"
+                           android:background="#ffffff"
+                           android:gravity="right"
+                           android:orientation="vertical" >
+
+                           <LinearLayout
+                               android:layout_width="match_parent"
+                               android:layout_height="1dp"
+                               android:background="#f6f6f6"
+                               android:orientation="vertical" >
+                           </LinearLayout>
+
+                           <TextView
+                               android:id="@+id/TextView05"
+                               android:layout_width="fill_parent"
+                               android:layout_height="wrap_content"
+                               android:gravity="right"
+                               android:padding="8dip"
+                               android:text="دردی که به شانه راست می زند و گاهی کمر را نیز درگیر می کند ، دردی که بعد از خوردن غذا تشدید می شود ، دردی که با یک نفس عمیش تشدید می شود ، احساس درد با لمس شکم مخصوصا در قسمت راست فوقانی شکم"
+                               android:textColor="#808080"
+                               android:textSize="12dip" />
+                       </LinearLayout>
+                   </LinearLayout>
+
+                   <LinearLayout
+                       android:layout_width="match_parent"
+                       android:layout_height="1dp"
+                       android:background="#f6f6f6"
+                       android:orientation="vertical" >
+                   </LinearLayout>
+
+                   <LinearLayout
+                       android:layout_width="match_parent"
+                       android:layout_height="wrap_content"
+                       android:orientation="vertical" >
+
+                       <LinearLayout
+                           android:layout_width="match_parent"
+                           android:layout_height="wrap_content"
+                           android:background="#ffffff"
+                           android:gravity="right|center_horizontal" >
+
+                           <Button
+                               android:id="@+id/btnopen3"
+                               style="?android:attr/borderlessButtonStyle"
+                               android:layout_width="1dip"
+                               android:layout_height="50dip"
+                               android:layout_weight="0.15"
+                               android:drawableLeft="@drawable/expand_dark" />
+
+                           <Button
+                               android:id="@+id/btn4"
+                               style="?android:attr/borderlessButtonStyle"
+                               android:layout_width="1dip"
+                               android:layout_height="50dip"
+                               android:layout_weight="0.9"
+                               android:gravity="right"
+                               android:paddingRight="16dip"
+                               android:text="درد پشت جناغ"
+                               android:textColor="#222222"
+                               android:textSize="14dip" />
+                       </LinearLayout>
+
+                       <LinearLayout
+                           android:id="@+id/list3"
+                           android:layout_width="fill_parent"
+                           android:layout_height="wrap_content"
+                           android:background="#ffffff"
+                           android:gravity="right"
+                           android:orientation="vertical" >
+
+                           <LinearLayout
+                               android:layout_width="match_parent"
+                               android:layout_height="1dp"
+                               android:background="#f6f6f6"
+                               android:orientation="vertical" >
+                           </LinearLayout>
+
+                           <TextView
+                               android:id="@+id/TextView06"
+                               android:layout_width="fill_parent"
+                               android:layout_height="wrap_content"
+                               android:gravity="right"
+                               android:padding="8dip"
+                               android:text="در اغلب موارد بصورت فشارنده و در ناحیه \شت جناغ می باشد ، با فعالیت افزایش و با استراحت تخفیف می یابد ، ممکن است به بازو و دست چپ و گاها به گردن و فک انتشار یابد."
+                               android:textColor="#808080"
+                               android:textSize="12dip" />
+                       </LinearLayout>
+                   </LinearLayout>
+
+                   <LinearLayout
+                       android:layout_width="match_parent"
+                       android:layout_height="1dp"
+                       android:background="#f6f6f6"
+                       android:orientation="vertical" >
+                   </LinearLayout>
+               </LinearLayout>
+
+               <LinearLayout
+                   android:id="@+id/woman"
+                   android:layout_width="match_parent"
+                   android:layout_height="wrap_content"
+                   android:orientation="vertical" >
+
+                   <LinearLayout
+                       android:layout_width="match_parent"
+                       android:layout_height="wrap_content"
+                       android:orientation="vertical" >
+
+                       <LinearLayout
+                           android:layout_width="match_parent"
+                           android:layout_height="wrap_content"
+                           android:background="#ffffff"
+                           android:gravity="right|center_vertical"
+                           android:paddingRight="8dip" >
+
+                           <Button
+                               android:id="@+id/btnopen7"
+                               style="?android:attr/borderlessButtonStyle"
+                               android:layout_width="1dip"
+                               android:layout_height="50dip"
+                               android:layout_weight="0.15"
+                               android:drawableLeft="@drawable/expand_dark" />
+
+                           <Button
+                               android:id="@+id/btn6"
+                               style="?android:attr/borderlessButtonStyle"
+                               android:layout_width="1dip"
+                               android:layout_height="wrap_content"
+                               android:layout_weight="0.9"
+                               android:gravity="right|center_vertical"
+                               android:paddingRight="8dip"
+                               android:text="درد سینه همراه با ورم"
+                               android:textColor="#222222"
+                               android:textSize="14dip" />
+                       </LinearLayout>
+
+                       <LinearLayout
+                           android:id="@+id/list6"
+                           android:layout_width="match_parent"
+                           android:layout_height="wrap_content"
+                           android:background="#ffffff"
+                           android:gravity="right"
+                           android:orientation="vertical" >
+
+                           <LinearLayout
+                               android:layout_width="match_parent"
+                               android:layout_height="1dp"
+                               android:background="#f6f6f6"
+                               android:orientation="vertical" >
+                           </LinearLayout>
+
+                           <TextView
+                               android:id="@+id/TextView08"
+                               android:layout_width="fill_parent"
+                               android:layout_height="wrap_content"
+                               android:gravity="right"
+                               android:padding="12dip"
+                               android:text="درد سینه با شدت متغیر در دوران عادت ماهانه که عواملی همچون مصرف مواد محرک کافئین دار از جمله کاکائو، نوشابه های گازدار و قهوه در رژیم غذایی و مواجه با استرس و اضطراب می تواند این درد را افزایش دهند."
+                               android:textColor="#808080"
+                               android:textSize="12dip" />
+                       </LinearLayout>
+                   </LinearLayout>
+
+                   <LinearLayout
+                       android:layout_width="match_parent"
+                       android:layout_height="1dp"
+                       android:background="#f6f6f6"
+                       android:orientation="vertical" >
+                   </LinearLayout>
+
+                   <LinearLayout
+                       android:layout_width="match_parent"
+                       android:layout_height="wrap_content"
+                       android:orientation="vertical" >
+
+                       <LinearLayout
+                           android:layout_width="match_parent"
+                           android:layout_height="wrap_content"
+                           android:background="#ffffff"
+                           android:gravity="right|center_vertical"
+                           android:paddingRight="8dip" >
+
+                           <Button
+                               android:id="@+id/btnopen5"
+                               style="?android:attr/borderlessButtonStyle"
+                               android:layout_width="1dip"
+                               android:layout_height="50dip"
+                               android:layout_weight="0.15"
+                               android:drawableLeft="@drawable/expand_dark" />
+
+                           <Button
+                               android:id="@+id/btn5"
+                               style="?android:attr/borderlessButtonStyle"
+                               android:layout_width="1dip"
+                               android:layout_height="wrap_content"
+                               android:layout_weight="0.9"
+                               android:gravity="right|center_vertical"
+                               android:paddingRight="8dip"
+                               android:text="درد ناگهانی شكم، تهوع و استفراغ"
+                               android:textColor="#222222"
+                               android:textSize="14dip" />
+                       </LinearLayout>
+
+                       <LinearLayout
+                           android:id="@+id/list5"
+                           android:layout_width="match_parent"
+                           android:layout_height="wrap_content"
+                           android:background="#ffffff"
+                           android:gravity="right"
+                           android:orientation="vertical" >
+
+                           <LinearLayout
+                               android:layout_width="match_parent"
+                               android:layout_height="1dp"
+                               android:background="#f6f6f6"
+                               android:orientation="vertical" >
+                           </LinearLayout>
+
+                           <TextView
+                               android:id="@+id/TextView07"
+                               android:layout_width="fill_parent"
+                               android:layout_height="wrap_content"
+                               android:gravity="right"
+                               android:padding="12dip"
+                               android:text="احساس درد ناگهانی شكم، تهوع و استفراغ، تغییرات نبض، احساس ضعف كه ممكن است به علت خون‌ریزی داخلی باشد. "
+                               android:textColor="#808080"
+                               android:textSize="12dip" />
+                       </LinearLayout>
+                   </LinearLayout>
+
+                   <LinearLayout
+                       android:layout_width="match_parent"
+                       android:layout_height="1dp"
+                       android:background="#f6f6f6"
+                       android:orientation="vertical" >
+                   </LinearLayout>
+
+                   <LinearLayout
+                       android:layout_width="match_parent"
+                       android:layout_height="wrap_content"
+                       android:orientation="vertical" >
+
+                       <LinearLayout
+                           android:layout_width="match_parent"
+                           android:layout_height="wrap_content"
+                           android:background="#ffffff"
+                           android:gravity="right|center_vertical"
+                           android:paddingRight="8dip" >
+
+                           <Button
+                               android:id="@+id/btnopenw"
+                               style="?android:attr/borderlessButtonStyle"
+                               android:layout_width="1dip"
+                               android:layout_height="50dip"
+                               android:layout_weight="0.15"
+                               android:drawableLeft="@drawable/expand_dark" />
+
+                           <Button
+                               android:id="@+id/btn1w"
+                               style="?android:attr/borderlessButtonStyle"
+                               android:layout_width="1dip"
+                               android:layout_height="wrap_content"
+                               android:layout_weight="0.9"
+                               android:gravity="right|center_vertical"
+                               android:paddingRight="8dip"
+                               android:text="درد قسمت فوقانی شکم"
+                               android:textColor="#222222"
+                               android:textSize="14dip" />
+                       </LinearLayout>
+
+                       <LinearLayout
+                           android:id="@+id/listw"
+                           android:layout_width="match_parent"
+                           android:layout_height="wrap_content"
+                           android:background="#ffffff"
+                           android:gravity="right"
+                           android:orientation="vertical" >
+
+                           <LinearLayout
+                               android:layout_width="match_parent"
+                               android:layout_height="1dp"
+                               android:background="#f6f6f6"
+                               android:orientation="vertical" >
+                           </LinearLayout>
+
+                           <TextView
+                               android:id="@+id/TextView03w"
+                               android:layout_width="fill_parent"
+                               android:layout_height="wrap_content"
+                               android:gravity="right"
+                               android:padding="12dip"
+                               android:text="درد در قسمت فوقانی شکم دقیقا زیر استخوان جناغ سینه ، اکثر اوقات \یش از زمان معمول صرف وعده غذایی یا در صورت گرسته بودن متحمل درد می شود و حتی به دلیل درد از خواب شبانه بیدار می شود ، درد گاهی \س از غذا خوردن یا مصرف قرص های ضد اسید بهبود می یابد."
+                               android:textColor="#808080"
+                               android:textSize="12dip" />
+                       </LinearLayout>
+                   </LinearLayout>
+
+                   <LinearLayout
+                       android:layout_width="match_parent"
+                       android:layout_height="1dp"
+                       android:background="#f6f6f6"
+                       android:orientation="vertical" >
+                   </LinearLayout>
+
+                   <LinearLayout
+                       android:layout_width="match_parent"
+                       android:layout_height="wrap_content"
+                       android:orientation="vertical" >
+
+                       <LinearLayout
+                           android:layout_width="match_parent"
+                           android:layout_height="wrap_content"
+                           android:background="#ffffff"
+                           android:gravity="right|center_vertical"
+                           android:paddingRight="8dip" >
+
+                           <Button
+                               android:id="@+id/btnopen1w"
+                               style="?android:attr/borderlessButtonStyle"
+                               android:layout_width="1dip"
+                               android:layout_height="50dip"
+                               android:layout_weight="0.15"
+                               android:drawableLeft="@drawable/expand_dark" />
+
+                           <Button
+                               android:id="@+id/btn2w"
+                               style="?android:attr/borderlessButtonStyle"
+                               android:layout_width="1dip"
+                               android:layout_height="wrap_content"
+                               android:layout_weight="0.9"
+                               android:gravity="right|center_vertical"
+                               android:paddingRight="8dip"
+                               android:text="درد نزدیک ناف و سمت راست شکم"
+                               android:textColor="#222222"
+                               android:textSize="14dip" />
+                       </LinearLayout>
+
+                       <LinearLayout
+                           android:id="@+id/list4w"
+                           android:layout_width="match_parent"
+                           android:layout_height="wrap_content"
+                           android:background="#ffffff"
+                           android:gravity="right"
+                           android:orientation="vertical" >
+
+                           <LinearLayout
+                               android:layout_width="match_parent"
+                               android:layout_height="1dp"
+                               android:background="#f6f6f6"
+                               android:orientation="vertical" >
+                           </LinearLayout>
+
+                           <TextView
+                               android:id="@+id/TextView04w"
+                               android:layout_width="fill_parent"
+                               android:layout_height="wrap_content"
+                               android:gravity="right"
+                               android:padding="12dip"
+                               android:text="دردی که از نزدیک ناف شوروع می شود و تدریجا به قسمت تحتانی شکم در سمت راست نقل مکان می کند ، درد کم کم مداوم می شود و از حالت مبهم به صورت کاملا مشخص در می آید به طوری که مکان آن دقیق تر توسط بیمار نشان داده می شود. درد با حرکت ، تنفس عمیق ، سرفه ، عطسه ، راه رفتن، یا لمس بدتر می شود ، همراه با حالت تهوع و تب."
+                               android:textColor="#808080"
+                               android:textSize="12dip" />
+                       </LinearLayout>
+                   </LinearLayout>
+
+                   <LinearLayout
+                       android:layout_width="match_parent"
+                       android:layout_height="1dp"
+                       android:background="#f6f6f6"
+                       android:orientation="vertical" >
+                   </LinearLayout>
+
+                   <LinearLayout
+                       android:layout_width="match_parent"
+                       android:layout_height="wrap_content"
+                       android:orientation="vertical" >
+
+                       <LinearLayout
+                           android:layout_width="match_parent"
+                           android:layout_height="wrap_content"
+                           android:background="#ffffff"
+                           android:gravity="right|center_vertical"
+                           android:paddingRight="8dip" >
+
+                           <Button
+                               android:id="@+id/btnopen2w"
+                               style="?android:attr/borderlessButtonStyle"
+                               android:layout_width="1dip"
+                               android:layout_height="50dip"
+                               android:layout_weight="0.15"
+                               android:drawableLeft="@drawable/expand_dark" />
+
+                           <Button
+                               android:id="@+id/btn3w"
+                               style="?android:attr/borderlessButtonStyle"
+                               android:layout_width="1dip"
+                               android:layout_height="wrap_content"
+                               android:layout_weight="0.9"
+                               android:gravity="right|center_vertical"
+                               android:paddingRight="8dip"
+                               android:text="درد شانه راست و قسمت فوقانی شکم"
+                               android:textColor="#222222"
+                               android:textSize="14dip" />
+                       </LinearLayout>
+
+                       <LinearLayout
+                           android:id="@+id/list2w"
+                           android:layout_width="match_parent"
+                           android:layout_height="wrap_content"
+                           android:background="#ffffff"
+                           android:gravity="right"
+                           android:orientation="vertical" >
+
+                           <LinearLayout
+                               android:layout_width="match_parent"
+                               android:layout_height="1dp"
+                               android:background="#f6f6f6"
+                               android:orientation="vertical" >
+                           </LinearLayout>
+
+                           <TextView
+                               android:id="@+id/TextView05w"
+                               android:layout_width="fill_parent"
+                               android:layout_height="wrap_content"
+                               android:gravity="right"
+                               android:padding="12dip"
+                               android:text="دردی که به شانه راست می زند و گاهی کمر را نیز درگیر می کند ، دردی که بعد از خوردن غذا تشدید می شود ، دردی که با یک نفس عمیش تشدید می شود ، احساس درد با لمس شکم مخصوصا در قسمت راست فوقانی شکم"
+                               android:textColor="#808080"
+                               android:textSize="12dip" />
+                       </LinearLayout>
+                   </LinearLayout>
+
+                   <LinearLayout
+                       android:layout_width="match_parent"
+                       android:layout_height="1dp"
+                       android:background="#f6f6f6"
+                       android:orientation="vertical" >
+                   </LinearLayout>
+
+                   <LinearLayout
+                       android:layout_width="match_parent"
+                       android:layout_height="wrap_content"
+                       android:orientation="vertical" >
+
+                       <LinearLayout
+                           android:layout_width="match_parent"
+                           android:layout_height="wrap_content"
+                           android:background="#ffffff"
+                           android:gravity="right|center_vertical"
+                           android:paddingRight="8dip" >
+
+                           <Button
+                               android:id="@+id/btnopen3w"
+                               style="?android:attr/borderlessButtonStyle"
+                               android:layout_width="1dip"
+                               android:layout_height="50dip"
+                               android:layout_weight="0.15"
+                               android:drawableLeft="@drawable/expand_dark" />
+
+                           <Button
+                               android:id="@+id/btn4w"
+                               style="?android:attr/borderlessButtonStyle"
+                               android:layout_width="1dip"
+                               android:layout_height="wrap_content"
+                               android:layout_weight="0.9"
+                               android:gravity="right|center_vertical"
+                               android:paddingRight="8dip"
+                               android:text="درد پشت جناغ"
+                               android:textColor="#222222"
+                               android:textSize="14dip" />
+                       </LinearLayout>
+
+                       <LinearLayout
+                           android:id="@+id/list3w"
+                           android:layout_width="fill_parent"
+                           android:layout_height="wrap_content"
+                           android:background="#ffffff"
+                           android:gravity="right"
+                           android:orientation="vertical" >
+
+                           <LinearLayout
+                               android:layout_width="match_parent"
+                               android:layout_height="1dp"
+                               android:background="#f6f6f6"
+                               android:orientation="vertical" >
+                           </LinearLayout>
+
+                           <TextView
+                               android:id="@+id/TextView06w"
+                               android:layout_width="fill_parent"
+                               android:layout_height="wrap_content"
+                               android:gravity="right"
+                               android:padding="12dip"
+                               android:text="در اغلب موارد بصورت فشارنده و در ناحیه \شت جناغ می باشد ، با فعالیت افزایش و با استراحت تخفیف می یابد ، ممکن است به بازو و دست چپ و گاها به گردن و فک انتشار یابد."
+                               android:textColor="#808080"
+                               android:textSize="12dip" />
+                       </LinearLayout>
+                   </LinearLayout>
+
+                   <LinearLayout
+                       android:layout_width="match_parent"
+                       android:layout_height="1dp"
+                       android:background="#f6f6f6"
+                       android:orientation="vertical" >
+                   </LinearLayout>
+               </LinearLayout>
+           </LinearLayout>
+
+       </ScrollView>
+<include layout="@layout/guidtxt" />
+</LinearLayout>

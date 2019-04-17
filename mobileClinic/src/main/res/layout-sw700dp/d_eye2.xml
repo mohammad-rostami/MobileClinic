@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="right"
+    android:orientation="vertical" android:background="#f2f2f2">
+
+    <include layout="@layout/actionbar_long" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        android:padding="24dip" >
+
+        <ScrollView
+            android:id="@+id/scrollView1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="right"
+                android:orientation="vertical" >
+
+                <RadioGroup
+                    android:id="@+id/radiogroup"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="right"
+                    android:paddingRight="8dip">
+
+                    <RadioButton
+                        android:id="@+id/radio0"
+                        android:layout_width="fill_parent"
+                        android:layout_height="50dip"
+                        android:layout_marginBottom="8dip"
+                        android:button="@drawable/radio_button"
+                        android:checked="true"
+                        android:gravity="right|center_vertical"
+                        android:text="برگشتن لبه پلک تحتانی به سمت خارج"
+                        android:textColor="#212121"
+                        android:textSize="24dip" />
+
+                    <RadioButton
+                        android:id="@+id/radio1"
+                        android:layout_width="fill_parent"
+                        android:layout_height="50dip"
+                        android:layout_marginBottom="8dip"
+                        android:button="@drawable/radio_button"
+                        android:gravity="right|center_vertical"
+                        android:text="برگشتن لبه پلک به طرف داخل"
+                        android:textColor="#212121"
+                        android:textSize="24dip" />
+
+                    <RadioButton
+                        android:id="@+id/radio2"
+                        android:layout_width="fill_parent"
+                        android:layout_height="50dip"
+                        android:layout_marginBottom="8dip"
+                        android:button="@drawable/radio_button"
+                        android:gravity="right|center_vertical"
+                        android:text="افتادگی پلک"
+                        android:textColor="#212121"
+                        android:textSize="24dip" />
+
+                    <RadioButton
+                        android:id="@+id/radio3"
+                        android:layout_width="fill_parent"
+                        android:layout_height="50dip"
+                        android:layout_marginBottom="8dip"
+                        android:button="@drawable/radio_button"
+                        android:gravity="right|center_vertical"
+                        android:text="توده برجسته قرمز‌رنگ دردناک در لبه چشم"
+                        android:textColor="#212121"
+                        android:textSize="24dip" />
+
+                    <RadioButton
+                        android:id="@+id/radio4"
+                        android:layout_width="fill_parent"
+                        android:layout_height="50dip"
+                        android:layout_marginBottom="8dip"
+                        android:button="@drawable/radio_button"
+                        android:gravity="right|center_vertical"
+                        android:text="برجستگی سفید‌رنگ و سفت پشت پلک فوقانی"
+                        android:textColor="#212121"
+                        android:textSize="24dip" />
+                </RadioGroup>
+            </LinearLayout>
+        </ScrollView>
+
+        <Button
+            android:id="@+id/btnselect"
+            style="?android:attr/borderlessButtonStyle"
+            android:layout_width="fill_parent"
+            android:layout_height="70dip"
+            android:layout_marginLeft="8dip"
+            android:layout_marginRight="8dip"
+            android:layout_marginTop="24dip"
+            android:background="#009688"
+            android:text="انتخاب"
+            android:textSize="26dip" />
+
+       </LinearLayout>
+<include layout="@layout/btndown" />
+</LinearLayout>

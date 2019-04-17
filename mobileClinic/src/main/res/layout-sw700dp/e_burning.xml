@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#eeeeee"
+    android:gravity="center_horizontal"
+    android:orientation="vertical" >
+ <include layout="@layout/actionbar_long"/>
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="2.14" android:background="#ffffff">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <Button
+                android:id="@+id/electric_burn"
+                android:layout_width="fill_parent"
+                android:layout_height="96dip"
+                android:background="@drawable/pressed_btn"
+                android:gravity="right|center"
+                android:paddingLeft="10dip"
+                android:paddingRight="36dip"
+                android:text="سوختگی الکتریکی"
+                android:textColor="#222222"
+                android:textSize="24dip"
+                android:textStyle="bold"
+      style="?android:attr/borderlessButtonStyle" android:drawablePadding="36dip" android:drawableRight="@drawable/ei_burn110"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:orientation="vertical" android:background="#f6f6f6">
+            </LinearLayout>
+            <Button
+                android:id="@+id/thermal_burn"
+                android:layout_width="fill_parent"
+                android:layout_height="96dip"
+                android:background="@drawable/pressed_btn"
+                android:drawablePadding="36dip"
+                android:gravity="right|center"
+                android:paddingLeft="10dip"
+                android:paddingRight="36dip"
+                android:text="سوختگی حرارتی"
+                android:textColor="#222222"
+                android:textSize="24dip"
+                android:textStyle="bold"
+      style="?android:attr/borderlessButtonStyle" android:drawableRight="@drawable/ei_burn110"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:orientation="vertical" android:background="#f6f6f6">
+            </LinearLayout>
+            <Button
+                android:id="@+id/chemical_burn"
+                android:layout_width="fill_parent"
+                android:layout_height="96dip"
+                android:background="@drawable/pressed_btn"
+                android:gravity="right|center"
+                android:paddingLeft="10dip"
+                android:paddingRight="36dip"
+                android:text="سوختگی شیمیایی"
+                android:textColor="#222222"
+                android:textSize="24dip"
+                android:textStyle="bold"
+      style="?android:attr/borderlessButtonStyle" android:drawablePadding="36dip" android:drawableRight="@drawable/ei_burn110"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:orientation="vertical" android:background="#f6f6f6">
+            </LinearLayout>
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

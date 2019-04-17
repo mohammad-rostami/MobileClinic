@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="left|center_horizontal"
+    android:orientation="vertical" >
+       <include layout="@layout/actionbar_long" />
+
+       <LinearLayout
+           android:layout_width="match_parent"
+           android:layout_height="fill_parent"
+           android:orientation="vertical" android:gravity="center_horizontal" android:background="#fafafa" android:padding="24dip">
+
+           <ScrollView
+               android:id="@+id/scrollView1"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content" >
+
+               <LinearLayout
+                   android:layout_width="match_parent"
+                   android:layout_height="match_parent"
+                   android:orientation="vertical" android:gravity="right" android:paddingRight="8dip">
+
+                   <CheckBox
+                       android:id="@+id/checkbox0"
+                       android:layout_width="fill_parent"
+                       android:layout_height="50dip"
+                       android:button="@drawable/check_box"
+                       android:text="وجود برآمدگی و یا ضخیم شدن سینه،بدون درد"
+                       android:textColor="#212121" android:gravity="right|center_vertical" android:layout_marginBottom="8dip" android:textSize="24dip"/>
+
+                   <CheckBox
+                       android:id="@+id/checkbox1"
+                       android:layout_width="fill_parent"
+                       android:layout_height="50dip"
+                       android:button="@drawable/check_box"
+                       android:text="ترشحات خود به خودی نوک پستان"
+                       android:textColor="#212121" android:gravity="right|center_vertical" android:layout_marginBottom="8dip" android:textSize="24dip"/>
+
+                   <CheckBox
+                       android:id="@+id/checkbox2"
+                       android:layout_width="fill_parent"
+                       android:layout_height="50dip"
+                       android:button="@drawable/check_box"
+                       android:text="تغییرات اندازه پستان"
+                       android:textColor="#212121" android:gravity="right|center_vertical" android:layout_marginBottom="8dip" android:textSize="24dip"/>
+
+                   <CheckBox
+                       android:id="@+id/checkbox3"
+                       android:layout_width="fill_parent"
+                       android:layout_height="50dip"
+                       android:button="@drawable/check_box"
+                       android:text="تکرر ادرار بخصوص در شب"
+                       android:textColor="#212121" android:gravity="right|center_vertical" android:layout_marginBottom="8dip" android:textSize="24dip"/>
+
+                   <CheckBox
+                       android:id="@+id/checkbox4"
+                       android:layout_width="fill_parent"
+                       android:layout_height="50dip"
+                       android:button="@drawable/check_box"
+                       android:text="کاهش حجم ادرار"
+                       android:textColor="#212121" android:gravity="right|center_vertical" android:layout_marginBottom="8dip" android:textSize="24dip"/>
+
+                   <CheckBox
+                       android:id="@+id/checkbox5"
+                       android:layout_width="fill_parent"
+                       android:layout_height="50dip"
+                       android:button="@drawable/check_box"
+                       android:text="خون در ادرار"
+                       android:textColor="#212121" android:gravity="right|center_vertical" android:layout_marginBottom="8dip" android:textSize="24dip"/>
+
+                   <CheckBox
+                       android:id="@+id/checkbox6"
+                       android:layout_width="fill_parent"
+                       android:layout_height="50dip"
+                       android:button="@drawable/check_box"
+                       android:text="تورم پا"
+                       android:textColor="#212121" android:gravity="right|center_vertical" android:layout_marginBottom="8dip" android:textSize="24dip"/>
+
+                   <CheckBox
+                       android:id="@+id/checkbox7"
+                       android:layout_width="fill_parent"
+                       android:layout_height="50dip"
+                       android:button="@drawable/check_box"
+                       android:text="لمس ورم در ناحیه درد"
+                       android:textColor="#212121" android:gravity="right|center_vertical" android:layout_marginBottom="8dip" android:textSize="24dip"/>
+
+                   <CheckBox
+                       android:id="@+id/checkbox8"
+                       android:layout_width="fill_parent"
+                       android:layout_height="50dip"
+                       android:button="@drawable/check_box"
+                       android:text="یرقان یا زردی"
+                       android:textColor="#212121" android:gravity="right|center_vertical" android:layout_marginBottom="8dip" android:textSize="24dip"/>
+
+                   <CheckBox
+                       android:id="@+id/checkbox9"
+                       android:layout_width="fill_parent"
+                       android:layout_height="50dip"
+                       android:button="@drawable/check_box"
+                       android:text="مدفوع چرب"
+                       android:textColor="#212121" android:gravity="right|center_vertical" android:layout_marginBottom="8dip" android:textSize="24dip"/>
+
+               </LinearLayout>
+
+           </ScrollView>
+
+           <Button
+               android:id="@+id/btnanswer"
+               android:layout_width="fill_parent"
+               android:layout_height="70dip"
+               android:text="انتخاب" android:background="#009688" style="?android:attr/borderlessButtonStyle" android:textSize="26dip" android:layout_marginRight="8dip" android:layout_marginLeft="8dip" android:layout_marginTop="24dip"/>
+
+       </LinearLayout>
+
+</LinearLayout>
