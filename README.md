@@ -21,6 +21,7 @@ this project has been developed on eclipse then moved to android studio
 
 so installing it has no complexity
 
+import it as a new project and you are good to go
 
 ## Deployment
 
