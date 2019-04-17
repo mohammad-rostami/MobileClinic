@@ -1,6 +1,6 @@
 # Mobile Clinic
 
-One Paragraph of project description goes here
+mobile clinic helps you to dignosis your Possible illness with some simpel steps
 
 ## Getting Started
 
