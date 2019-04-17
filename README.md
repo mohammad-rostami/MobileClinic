@@ -3,7 +3,7 @@
 if you feel not good...
 mobile clinic helps you to dignosis your Possible illness with some simple steps
 
-![alt text](https://gitlab.com/mohammad-rostami/mobileclinic/blob/master/mobileClinic/mobile_clinic.png)
+![alt text](https://gitlab.com/mohammad-rostami/mobileclinic/blob/master/mobileClinic/mobile_clinic.png?raw=true "Title")
 
 ## Getting Started
 
